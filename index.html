@@ -283,12 +283,14 @@
       }
 
       #color-picker {
-        width: 30px;
-        height: 30px;
-        border: 0;
-        border-radius: 0;
-        cursor: pointer;
-      }
+  display: none;
+}
+
+#custom-color-picker {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
 
       #year-display {
         color: rgb(255, 255, 255);
@@ -361,7 +363,7 @@
         }
 
         .year-color-container {
-          margin-bottom: 0.5em;
+          margin-bottom: 4em;
         }
 
         #color-picker {
@@ -373,20 +375,53 @@
           height: 15px;
         }
 
+        .color-timeline.filtered {
+          bottom: 15px;
+        }
+
         .playhead {
           height: 30px;
         }
       }
 
-      @media screen and (max-width: 1024px) and (orientation: landscape) {
-        .year-color-container{
-          margin-bottom: 3em;
+      #loading-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 3000;
+      }
+
+      .loader {
+        width: 48px;
+        height: 48px;
+        border: 5px solid #FFF;
+        border-bottom-color: transparent;
+        border-radius: 50%;
+        animation: rotation 1s linear infinite;
+      }
+
+      @keyframes rotation {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
         }
       }
       
     </style>
   </head>
   <body>
+    <div id="loading-overlay">
+      <div class="loader"></div>
+    </div>
+
     <div id="rotation-overlay">
       <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M16.48 2.52c3.27 1.55 5.61 4.72 5.97 8.48h1.5C23.44 4.84 18.29 0 12 0l-.66.03 3.81 3.81 1.33-1.32zm-6.25-.77c-.59-.59-1.54-.59-2.12 0L1.75 8.11c-.59.59-.59 1.54 0 2.12l12.02 12.02c.59.59 1.54.59 2.12 0l6.36-6.36c.59-.59.59-1.54 0-2.12L10.23 1.75zm4.6 19.44L2.81 9.17l6.36-6.36 12.02 12.02-6.36 6.36zm-7.31.29C4.25 19.94 1.91 16.76 1.55 13H.05C.56 19.16 5.71 24 12 24l.66-.03-3.81-3.81-1.33 1.32z'/%3E%3C/svg%3E" alt="Rotate device">
       <p>Please rotate your device</p>
@@ -404,6 +439,7 @@
       <div style="flex: 1"></div>
       <div class="year-color-container">
         <input type="color" id="color-picker" value="#ffffff" />
+        <div id="custom-color-picker"></div>
         <div id="year-display"></div>
         <div class="color-palette"></div>
       </div>
@@ -467,6 +503,8 @@
           document.addEventListener('touchstart', (e) => this.startDrag(e.touches[0]));
           document.addEventListener('touchmove', (e) => this.handleDrag(e.touches[0]));
           document.addEventListener('touchend', () => this.stopDrag());
+
+          this.loadingOverlay = document.getElementById('loading-overlay');
 
           this.init();
         }
@@ -548,18 +586,24 @@
         }
 
         async init() {
-          await this.loadData();
-          await this.preloadVideos();
+          try {
+            await this.loadData();
+            await this.preloadVideos();
 
-          this.setupKeyboard();
-          this.createColorTimeline();
-          this.createFilteredColorTimeline();
-          this.setupColorPicker();
-          // Suppression de this.setupToggleButton();
-          this.setupTimelineDragging();
-          this.loadVideo();
-          this.videoElement.addEventListener('play', () => this.startPlayheadAnimation());
-          this.videoElement.addEventListener('pause', () => this.stopPlayheadAnimation());
+            this.setupKeyboard();
+            this.createColorTimeline();
+            this.createFilteredColorTimeline();
+            this.setupColorPicker();
+            this.setupTimelineDragging();
+            this.loadVideo();
+            this.videoElement.addEventListener('play', () => this.startPlayheadAnimation());
+            this.videoElement.addEventListener('pause', () => this.stopPlayheadAnimation());
+          } finally {
+            // Hide loading overlay when everything is done
+            if (this.loadingOverlay) {
+              this.loadingOverlay.style.display = 'none';
+            }
+          }
         }
 
         async preloadVideos() {
@@ -704,35 +748,41 @@
         }
 
         setupColorPicker() {
-  const colorPicker = document.getElementById("color-picker");
-  
-  colorPicker.addEventListener("click", (e) => {
-    e.preventDefault();
+  const nativePicker = document.getElementById("color-picker");
+  const customPicker = document.getElementById("custom-color-picker");
+
+  // Initialiser la couleur
+  customPicker.style.backgroundColor = nativePicker.value;
+
+  // Gérer le clic sur le picker personnalisé
+  customPicker.addEventListener("click", (e) => {
     this.colorIndex = (this.colorIndex + 1) % (colorData.length + 1);
-    
+
     if (this.colorIndex === colorData.length) {
       this.selectedColor = null;
-      colorPicker.value = "#ffffff";
+      nativePicker.value = "#ffffff";
+      customPicker.style.backgroundColor = "#ffffff";
       COLOR_DISTANCE_CUTOFF = 10;
       chroma.deltaE.parameters = [0.5, 0.5, 0.95];
-      this.updateFavicon("#ffffff"); // Blanc explicite
     } else {
       const currentColorData = colorData[this.colorIndex];
       this.selectedColor = currentColorData.color;
-      colorPicker.value = this.selectedColor;
+      nativePicker.value = this.selectedColor;
+      customPicker.style.backgroundColor = this.selectedColor;
       COLOR_DISTANCE_CUTOFF = currentColorData.distanceCutoff;
       chroma.deltaE.parameters = currentColorData.deltaEParams;
-      this.updateFavicon(this.selectedColor); // Couleur actuelle
     }
-    
+
+    this.updateFavicon(nativePicker.value);
     this.updateMainTimeline();
     this.filterVideosByColor();
   });
 
-  colorPicker.addEventListener("input", (e) => {
+  // Garder la synchronisation si modification manuelle (optionnel)
+  nativePicker.addEventListener("input", (e) => {
+    customPicker.style.backgroundColor = e.target.value;
     this.selectedColor = e.target.value;
-    this.updateFavicon(this.selectedColor); // Mise à jour en direct
-    this.updateMainTimeline();
+    this.updateFavicon(e.target.value);
     this.filterVideosByColor();
   });
 }
@@ -861,7 +911,7 @@ updateFavicon(color) {
             document
               .querySelectorAll(".timeline-color")
               .forEach((div, index) => {
-                div.style.opacity = index === this.currentIndex ? "1" : "0.5";
+                div.style.opacity = index === this.currentIndex ? "1" : "1";
               });
           } catch (err) {
             console.error("Video load error:", err);
@@ -997,9 +1047,9 @@ updateFavicon(color) {
                 break;
               case "y":
                 // Simulate a click on the color picker
-                const colorPicker = document.getElementById("color-picker");
-                colorPicker.click();
-                break;
+                document.getElementById("custom-color-picker").click();
+        break;
+
             }
           });
         }
@@ -1098,6 +1148,20 @@ updateFavicon(color) {
           muteButton.textContent = this.isMuted ? "🔇 Muted" : "🔊 Unmuted";
         }
       }
+
+      const customPicker = document.getElementById('custom-color-picker');
+        const nativePicker = document.getElementById('color-picker');
+
+        // Example: Change color on click (you can customize this part)
+        customPicker.addEventListener('click', () => {
+            // Implement your custom color picker logic here
+            // For demonstration, we'll just toggle between two colors
+            const currentColor = customPicker.style.backgroundColor;
+            customPicker.style.backgroundColor = currentColor === 'rgb(255, 255, 255)' ? 'rgb(0, 0, 0)' : 'rgb(255, 255, 255)';
+
+            // Update the native input value (if needed)
+            nativePicker.value = customPicker.style.backgroundColor;
+        });
 
       // Initialize player
       const player = new VideoPlayer();
