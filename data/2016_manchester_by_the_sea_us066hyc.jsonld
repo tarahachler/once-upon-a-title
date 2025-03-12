@@ -1,0 +1,110 @@
+{
+  "title": "Manchester by the Sea",
+  "year": "2016",
+  "status": "Complete Live",
+  "filename": "US066HYC",
+  "tags": [
+    "horizon",
+    "landscape",
+    "title card"
+  ],
+  "genre": [
+    "Drama"
+  ],
+  "director": [
+    "Kenneth Lonergan"
+  ],
+  "cinematographer": [
+    "Jody Lee Lipes"
+  ],
+  "production_designer": [
+    "Ruth de Jong"
+  ],
+  "costume_designer": [
+    "Melissa Toth"
+  ],
+  "editor": [
+    "Jennifer Lame"
+  ],
+  "shot_time": [
+    "00:01:58"
+  ],
+  "time_period": [
+    "2010s"
+  ],
+  "color": [
+    "Cool",
+    "Cyan",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.85"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Extreme Wide",
+    "Wide"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny",
+    "Overcast"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Ocean",
+    "Cove"
+  ],
+  "story_location": [
+    "Earth > North America > United States > Massachusetts > Manchester-by-the-sea",
+    "Earth",
+    "North America",
+    "United States",
+    "Massachusetts",
+    "Manchester-by-the-sea",
+    "... Massachusetts > Manchester-by-the-sea",
+    "...",
+    "Massachusetts",
+    "Manchester-by-the-sea"
+  ],
+  "filming_location": "Earth > North America > United States > Massachusetts > Manchester-by-the-sea",
+  "camera": [
+    "ARRI ALEXA XT / XTplus"
+  ],
+  "lens": [
+    "Angenieux Optimo Zooms"
+  ],
+  "color_palette": [
+    "#2D2521",
+    "#2A3037",
+    "#3A3033",
+    "#493A3D",
+    "#514649",
+    "#625B58",
+    "#527280",
+    "#677472",
+    "#758583",
+    "#5B8E9E",
+    "#7DA7B0",
+    "#99B1AD",
+    "#A3C9CA",
+    "#A8CCC6",
+    "#C5DCD2"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "School of Rock",
+  "year": "2003",
+  "status": "Complete Live",
+  "filename": "K04WD9WH",
+  "tags": [
+    "red neon sign",
+    "bricks",
+    "title card"
+  ],
+  "genre": [
+    "Comedy",
+    "Music"
+  ],
+  "director": [
+    "Richard Linklater"
+  ],
+  "cinematographer": [
+    "Rogier Stoffers"
+  ],
+  "production_designer": [
+    "Jeremy Conway"
+  ],
+  "costume_designer": [
+    "Karen Patch"
+  ],
+  "editor": [
+    "Sandra Adair"
+  ],
+  "shot_time": [
+    "00:00:53"
+  ],
+  "time_period": [
+    "2000s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red",
+    "Orange"
+  ],
+  "aspect_ratio": [
+    "1.78",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "lighting_type": [
+    "Artificial light",
+    "Practical light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Club"
+  ],
+  "story_location": [
+    "Earth > North America > United States",
+    "Earth",
+    "North America",
+    "United States",
+    "... North America > United States",
+    "...",
+    "North America",
+    "United States"
+  ],
+  "filming_location": "Earth > North America > United States > New York > New York City",
+  "camera": [
+    "Arriflex"
+  ],
+  "color_palette": [
+    "#140A08",
+    "#350407",
+    "#484034",
+    "#8B1219",
+    "#941309",
+    "#B2292C",
+    "#B63925",
+    "#DA5035",
+    "#EC8245"
+  ]
+}

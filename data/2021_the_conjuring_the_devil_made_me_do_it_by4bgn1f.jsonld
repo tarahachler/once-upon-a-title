@@ -1,0 +1,91 @@
+{
+  "title": "The Conjuring: The Devil Made Me Do It",
+  "year": "2021",
+  "status": "Complete Live",
+  "filename": "BY4BGN1F",
+  "tags": [
+    "title card",
+    "yellow font",
+    "serif font"
+  ],
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "director": [
+    "Michael Chaves"
+  ],
+  "cinematographer": [
+    "Michael Burgess"
+  ],
+  "production_designer": [
+    "Jennifer Spence"
+  ],
+  "costume_designer": [
+    "Leah Butler"
+  ],
+  "editor": [
+    "Christian Wagner",
+    "Peter Gvozdas"
+  ],
+  "colorist": [
+    "Mark Griffith"
+  ],
+  "shot_time": [
+    "00:10:58"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Green"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Connecticut > Brookfield",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Connecticut",
+    "Brookfield",
+    "... Connecticut > Brookfield",
+    "...",
+    "Connecticut",
+    "Brookfield"
+  ],
+  "filming_location": "Earth > North America > United States of America > Georgia",
+  "camera": [
+    "ARRI ALEXA SXT"
+  ],
+  "lens": [
+    "Panavision Primo 70s"
+  ],
+  "color_palette": [
+    "#000001",
+    "#010001",
+    "#000101",
+    "#010100",
+    "#4F4E18",
+    "#6A6A41",
+    "#989893",
+    "#AAAA27",
+    "#C1C1C1",
+    "#EDED1D",
+    "#F2F206"
+  ]
+}

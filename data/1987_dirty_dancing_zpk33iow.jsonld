@@ -1,0 +1,113 @@
+{
+  "title": "Dirty Dancing",
+  "year": "1987",
+  "status": "Complete Live",
+  "filename": "ZPK33IOW",
+  "tags": [
+    "cursive font",
+    "handwriting",
+    "red text over image",
+    "title",
+    "title screen",
+    "title card"
+  ],
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance",
+    "Dance"
+  ],
+  "director": [
+    "Emile Ardolino"
+  ],
+  "cinematographer": [
+    "Jeffrey Jur"
+  ],
+  "production_designer": [
+    "David Chapman"
+  ],
+  "costume_designer": [
+    "Hilary Rosenfeld"
+  ],
+  "editor": [
+    "Peter C. Frank",
+    "Girish Bhargava"
+  ],
+  "shot_time": [
+    "00:00:25"
+  ],
+  "time_period": [
+    "1960s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "1.78",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Close Up"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Dance Hall"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > North Carolina > Catskills Resort",
+    "Earth",
+    "North America",
+    "United States of America",
+    "North Carolina",
+    "Catskills Resort",
+    "... North Carolina > Catskills Resort",
+    "...",
+    "North Carolina",
+    "Catskills Resort"
+  ],
+  "filming_location": "Earth > North America > United States > North Carolina > Rutherford County > Lake Lure",
+  "camera": [
+    "Panavision Panaflex"
+  ],
+  "lens": [
+    "Panavision Lenses"
+  ],
+  "color_palette": [
+    "#020101",
+    "#12201D",
+    "#3B0715",
+    "#1D2426",
+    "#334644",
+    "#45494B",
+    "#9F0336",
+    "#784A56",
+    "#546660",
+    "#6E6A66",
+    "#937175",
+    "#76857B",
+    "#818279",
+    "#849185",
+    "#9A9F90"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "title": "2001: A Space Odyssey",
+  "year": "1968",
+  "status": "Complete Live",
+  "filename": "V3YWQRV2",
+  "tags": [
+    "earth",
+    "eclipse",
+    "outer space",
+    "sunrise",
+    "title card"
+  ],
+  "genre": [
+    "Adventure",
+    "Mystery",
+    "Science Fiction",
+    "Cosmic Horror",
+    "Psychedelic"
+  ],
+  "director": [
+    "Stanley Kubrick"
+  ],
+  "cinematographer": [
+    "Geoffrey Unsworth"
+  ],
+  "production_designer": [
+    "Ernest Archer",
+    "Harry Lange",
+    "Anthony Masters"
+  ],
+  "costume_designer": [
+    "Eileen Sullivan",
+    "John Wilson-Apperson"
+  ],
+  "editor": [
+    "Ray Lovejoy"
+  ],
+  "colorist": [
+    "Harry V. Jones"
+  ],
+  "shot_time": [
+    "00:04:14"
+  ],
+  "color": [
+    "Warm",
+    "Saturated"
+  ],
+  "aspect_ratio": [
+    "2.20"
+  ],
+  "format": [
+    "Film - 65mm"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "shot_type": [
+    "Aerial"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Backlight"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "set": [
+    "Space"
+  ],
+  "story_location": [
+    "Earth",
+    "Earth",
+    "... Earth",
+    "...",
+    "Earth"
+  ],
+  "filming_location": "Earth > Europe > UK",
+  "camera": [
+    "Mitchell BFC 65",
+    "Mitchell FC 65"
+  ],
+  "lens": [
+    "Panavision Super PV70 Lenses"
+  ],
+  "film_stock___resolution": [
+    "5251\t50T"
+  ],
+  "color_palette": [
+    "#070907",
+    "#0D0D0F",
+    "#100F0B",
+    "#151214",
+    "#4B4030",
+    "#6D5543",
+    "#665963",
+    "#5C675A",
+    "#A57460",
+    "#8C826E",
+    "#B79689",
+    "#A89BA3",
+    "#DCB0AC",
+    "#E4D8DC",
+    "#E3DAD4"
+  ]
+}

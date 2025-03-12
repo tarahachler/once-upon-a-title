@@ -1,0 +1,123 @@
+{
+  "title": "Snack Shack",
+  "year": "2024",
+  "status": "Complete Live",
+  "filename": "OD4PPO0Q",
+  "tags": [
+    "blue sky",
+    "yellow text",
+    "title card",
+    "swimming pool",
+    "green trees",
+    "snack shack",
+    "pool umbrellas"
+  ],
+  "genre": [
+    "Comedy"
+  ],
+  "director": [
+    "Adam Rehmeier"
+  ],
+  "cinematographer": [
+    "Jean-Philippe Bernier"
+  ],
+  "production_designer": [
+    "Francesca Palombo"
+  ],
+  "costume_designer": [
+    "Anaïs Castaldi",
+    "Hannah Greenblatt"
+  ],
+  "editor": [
+    "Justin Krohn"
+  ],
+  "shot_time": [
+    "00:17:33"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Mixed",
+    "Saturated",
+    "Orange",
+    "Yellow",
+    "Cyan",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "shot_type": [
+    "Establishing shot"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "lighting": [
+    "Hard light"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Community Pool"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Nebraska > Nebraska City",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Nebraska",
+    "Nebraska City",
+    "... Nebraska > Nebraska City",
+    "...",
+    "Nebraska",
+    "Nebraska City"
+  ],
+  "filming_location": "Earth > North America > United States of America > Nebraska > Nebraska City",
+  "camera": [
+    "Panavision DXL",
+    "RED Komodo",
+    "RED Monstro"
+  ],
+  "lens": [
+    "Cooke Xtal Express",
+    "Panavision T series"
+  ],
+  "film_stock___resolution": [
+    "Redcode RAW 6K",
+    "Redcode RAW 8k"
+  ],
+  "color_palette": [
+    "#18252A",
+    "#1D2821",
+    "#2F2918",
+    "#38443C",
+    "#53491C",
+    "#83240A",
+    "#4C5750",
+    "#745D40",
+    "#39758A",
+    "#548E9D",
+    "#80A0A9",
+    "#97A09D",
+    "#B19D82",
+    "#D8BA0C",
+    "#E6CDB9"
+  ]
+}

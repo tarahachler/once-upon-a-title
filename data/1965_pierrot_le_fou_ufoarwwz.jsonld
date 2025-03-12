@@ -1,0 +1,68 @@
+{
+  "title": "Pierrot le Fou",
+  "year": "1965",
+  "status": "Complete Live",
+  "filename": "UFOARWWZ",
+  "tags": [
+    "black background",
+    "blue text",
+    "french",
+    "simple graphic",
+    "simple text",
+    "title card"
+  ],
+  "genre": [
+    "Drama",
+    "Thriller",
+    "Road Trip"
+  ],
+  "director": [
+    "Jean-Luc Godard"
+  ],
+  "cinematographer": [
+    "Raoul Coutard"
+  ],
+  "production_designer": [
+    "Pierre Guffroy"
+  ],
+  "editor": [
+    "Françoise Collin"
+  ],
+  "shot_time": [
+    "00:01:43"
+  ],
+  "time_period": [
+    "1960s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "2 perf",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "filming_location": "Earth > Europe > France > Paris",
+  "camera": [
+    "Arriflex"
+  ],
+  "color_palette": [
+    "#010001",
+    "#010101",
+    "#010201",
+    "#010306",
+    "#124176",
+    "#155697"
+  ]
+}

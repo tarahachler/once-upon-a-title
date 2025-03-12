@@ -1,0 +1,98 @@
+{
+  "title": "Once Upon a Time in America",
+  "year": "1984",
+  "status": "Complete Live",
+  "filename": "NEGC8PVO",
+  "tags": [
+    "fancy",
+    "ornate font",
+    "title card"
+  ],
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "director": [
+    "Sergio Leone"
+  ],
+  "cinematographer": [
+    "Tonino Delli Colli"
+  ],
+  "production_designer": [
+    "Giovanni Natalucci"
+  ],
+  "costume_designer": [
+    "Gabriella Pescucci"
+  ],
+  "editor": [
+    "Nino Baragli"
+  ],
+  "shot_time": [
+    "00:01:57"
+  ],
+  "time_period": [
+    "1930s"
+  ],
+  "color": [
+    "Warm",
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "1.78",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "story_location": [
+    "Earth > North America > United States > New York > Lower East Side",
+    "Earth",
+    "North America",
+    "United States",
+    "New York",
+    "Lower East Side",
+    "... New York > Lower East Side",
+    "...",
+    "New York",
+    "Lower East Side"
+  ],
+  "filming_location": "Earth > Europe > United States > New York",
+  "color_palette": [
+    "#000002",
+    "#010000",
+    "#000100",
+    "#030103",
+    "#464135",
+    "#686051",
+    "#8C826C",
+    "#B6A98D",
+    "#CEC1A1"
+  ]
+}

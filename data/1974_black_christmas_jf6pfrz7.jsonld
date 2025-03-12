@@ -1,0 +1,100 @@
+{
+  "title": "Black Christmas",
+  "year": "1974",
+  "status": "Complete Live",
+  "filename": "JF6PFRZ7",
+  "tags": [
+    "christmas lights",
+    "christmas decor",
+    "title",
+    "title card",
+    "hedges",
+    "tree"
+  ],
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "director": [
+    "Bob Clark"
+  ],
+  "cinematographer": [
+    "Reginald H. Morris"
+  ],
+  "costume_designer": [
+    "Debi Weldon"
+  ],
+  "editor": [
+    "Stan Cole"
+  ],
+  "shot_time": [
+    "00:00:25"
+  ],
+  "time_period": [
+    "1970s"
+  ],
+  "color": [
+    "Warm",
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Sorority House",
+    "Front Lawn"
+  ],
+  "story_location": [
+    "Earth > North America > Canada > Ontario > Toronto",
+    "Earth",
+    "North America",
+    "Canada",
+    "Ontario",
+    "Toronto",
+    "... Ontario > Toronto",
+    "...",
+    "Ontario",
+    "Toronto"
+  ],
+  "filming_location": "Earth > North America > Canada > Ontario > Toronto",
+  "camera": [
+    "Panavision R-200"
+  ],
+  "lens": [
+    "Panavision Lenses"
+  ],
+  "color_palette": [
+    "#050507",
+    "#070506",
+    "#0A0C0B",
+    "#0F0C07",
+    "#533731",
+    "#685951",
+    "#625C5F",
+    "#5A605D",
+    "#596066",
+    "#9A9F9E",
+    "#A79B97",
+    "#A49EA0",
+    "#A0A7AC",
+    "#C0C5C8",
+    "#C8C4C2"
+  ]
+}

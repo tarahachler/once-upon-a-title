@@ -1,0 +1,103 @@
+{
+  "title": "Your Name.",
+  "year": "2016",
+  "status": "Complete Live",
+  "filename": "F438A66G",
+  "tags": [
+    "title card",
+    "end card",
+    "black font",
+    "japanese text"
+  ],
+  "genre": [
+    "Animation",
+    "Drama",
+    "Fantasy",
+    "Melodrama",
+    "Romance",
+    "Time Travel"
+  ],
+  "director": [
+    "Makoto Shinkai"
+  ],
+  "cinematographer": [
+    "Makoto Shinkai",
+    "Hitomi Fukuzawa"
+  ],
+  "editor": [
+    "Makoto Shinkai"
+  ],
+  "shot_time": [
+    "01:40:48"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Cool",
+    "Saturated",
+    "Green",
+    "Blue",
+    "White"
+  ],
+  "aspect_ratio": [
+    "1.78"
+  ],
+  "format": [
+    "Animation"
+  ],
+  "frame_size": [
+    "Wide"
+  ],
+  "shot_type": [
+    "Establishing shot"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Top light"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "set": [
+    "City Street"
+  ],
+  "story_location": [
+    "Earth > Asia > Japan > Tokyo",
+    "Earth",
+    "Asia",
+    "Japan",
+    "Tokyo",
+    "... Japan > Tokyo",
+    "...",
+    "Japan",
+    "Tokyo"
+  ],
+  "filming_location": "Earth > Asia > Japan",
+  "color_palette": [
+    "#212629",
+    "#4D6A4A",
+    "#526982",
+    "#657146",
+    "#607EA7",
+    "#70915F",
+    "#829752",
+    "#80A2BD",
+    "#90A88F",
+    "#A3B075",
+    "#90CCEC",
+    "#C4D580",
+    "#B7E2F8",
+    "#E4E1D1",
+    "#E9F4EE"
+  ]
+}

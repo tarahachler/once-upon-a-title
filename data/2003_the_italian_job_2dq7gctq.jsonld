@@ -1,0 +1,125 @@
+{
+  "title": "The Italian Job",
+  "year": "2003",
+  "status": "Complete Live",
+  "filename": "2DQ7GCTQ",
+  "tags": [
+    "orange lettering",
+    "title card",
+    "map of venice",
+    "all caps font",
+    "off-center text",
+    "blurry image"
+  ],
+  "genre": [
+    "Action",
+    "Crime"
+  ],
+  "director": [
+    "F. Gary Gray"
+  ],
+  "cinematographer": [
+    "Wally Pfister"
+  ],
+  "production_designer": [
+    "Charles Wood"
+  ],
+  "costume_designer": [
+    "Mark Bridges"
+  ],
+  "editor": [
+    "Richard Francis-Bruce",
+    "Christopher Rouse"
+  ],
+  "colorist": [
+    "Donald Freeman"
+  ],
+  "shot_time": [
+    "00:00:54"
+  ],
+  "time_period": [
+    "2000s"
+  ],
+  "color": [
+    "Warm",
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Low contrast"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Title Card"
+  ],
+  "story_location": [
+    "Earth > Europe > Italy > Veneto > Venice",
+    "Earth",
+    "Europe",
+    "Italy",
+    "Veneto",
+    "Venice",
+    "... Veneto > Venice",
+    "...",
+    "Veneto",
+    "Venice"
+  ],
+  "filming_location": "Earth > North America > USA > California > Los Angeles",
+  "camera": [
+    "Arriflex 35 III",
+    "Bell & Howell Eyemo",
+    "Panavision Panaflex Gold"
+  ],
+  "lens": [
+    "Panavision Primo Primes",
+    "Panavision Ultra Speed Zeiss"
+  ],
+  "film_stock___resolution": [
+    "5246/7246\tVision \t250D",
+    "5248/7248\tEXR\t\t100T",
+    "5279/7279\tVision\t500T"
+  ],
+  "color_palette": [
+    "#000002",
+    "#010201",
+    "#090205",
+    "#0B0806",
+    "#4E3B33",
+    "#4B3E32",
+    "#5C4E45",
+    "#5D595B",
+    "#7A7B7D",
+    "#7C7E7D",
+    "#7E8180",
+    "#808281",
+    "#808285",
+    "#A77659",
+    "#B38162"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Pulp Fiction",
+  "year": "1994",
+  "status": "Complete Live",
+  "filename": "MBZBNL17",
+  "tags": [
+    "block lettering",
+    "capital letters",
+    "title card",
+    "yellow font"
+  ],
+  "genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "director": [
+    "Quentin Tarantino"
+  ],
+  "cinematographer": [
+    "Andrzej Sekula"
+  ],
+  "production_designer": [
+    "David Wasco"
+  ],
+  "costume_designer": [
+    "Betsy Heimann"
+  ],
+  "editor": [
+    "Sally Menke"
+  ],
+  "colorist": [
+    "Mike Stanwick"
+  ],
+  "shot_time": [
+    "00:05:14"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red",
+    "Orange"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "story_location": [
+    "Earth > North America > United States > California > Los Angeles",
+    "Earth",
+    "North America",
+    "United States",
+    "California",
+    "Los Angeles",
+    "... California > Los Angeles",
+    "...",
+    "California",
+    "Los Angeles"
+  ],
+  "filming_location": "Earth > North America > United States > California > Los Angeles",
+  "camera": [
+    "Panavision Gold / G2",
+    "Panavision Lightweight",
+    "Arriflex 35 IIIc"
+  ],
+  "lens": [
+    "Panavision C series",
+    "Panavision E series"
+  ],
+  "film_stock___resolution": [
+    "Eastman EXR 50D 5245"
+  ],
+  "color_palette": [
+    "#000001",
+    "#000100",
+    "#030100",
+    "#0F0102",
+    "#6E3F0A",
+    "#AF0102",
+    "#B40501",
+    "#B2550A",
+    "#F6A103",
+    "#FAA905"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Weekend",
+  "year": "1967",
+  "status": "Complete Live",
+  "filename": "OU4YH2J1",
+  "tags": [
+    "artsy",
+    "french",
+    "letters on black",
+    "red white and blue",
+    "title card",
+    "title frame"
+  ],
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "director": [
+    "Jean-Luc Godard"
+  ],
+  "cinematographer": [
+    "Raoul Coutard"
+  ],
+  "editor": [
+    "Agnès Guillemot"
+  ],
+  "shot_time": [
+    "00:01:58"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.66",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "story_location": [
+    "Earth > Europe > France",
+    "Earth",
+    "Europe",
+    "France",
+    "... Europe > France",
+    "...",
+    "Europe",
+    "France"
+  ],
+  "filming_location": "Earth > Europe > France",
+  "color_palette": [
+    "#0F0307",
+    "#080E36",
+    "#25140F",
+    "#05308A",
+    "#583528",
+    "#523E2B",
+    "#830212",
+    "#735C44",
+    "#978062",
+    "#B7A587",
+    "#D3C4A3",
+    "#EAE3CA"
+  ]
+}

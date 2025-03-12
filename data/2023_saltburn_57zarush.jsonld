@@ -1,0 +1,86 @@
+{
+  "title": "Saltburn",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "57ZARUSH",
+  "tags": [
+    "title card",
+    "red text",
+    "black background"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "director": [
+    "Emerald Fennell"
+  ],
+  "cinematographer": [
+    "Linus Sandgren"
+  ],
+  "production_designer": [
+    "Suzie Davies"
+  ],
+  "costume_designer": [
+    "Sophie Canale"
+  ],
+  "editor": [
+    "Victoria Boydell"
+  ],
+  "colorist": [
+    "Matt Wallach"
+  ],
+  "shot_time": [
+    "02:05:35"
+  ],
+  "time_period": [
+    "2000s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red",
+    "Yellow",
+    "Green"
+  ],
+  "aspect_ratio": [
+    "1.33",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "filming_location": "Earth > Europe > United Kingdom > England",
+  "camera": [
+    "Arriflex 435 Xtreme",
+    "Panavision Millennium / Millenium XL / XL2"
+  ],
+  "lens": [
+    "Panavision Primo Classic"
+  ],
+  "film_stock___resolution": [
+    "5203/7203\tVision 3\t50D",
+    "5213/7213\tVision 3\t200T",
+    "5219/7219  \tVision 3\t500T"
+  ],
+  "color_palette": [
+    "#000002",
+    "#010000",
+    "#0B1208",
+    "#340406",
+    "#7C130E",
+    "#860306",
+    "#2D5413",
+    "#46541B",
+    "#3D651D",
+    "#716132",
+    "#978A49",
+    "#BAA36D",
+    "#DDC98C",
+    "#E9DAA7"
+  ]
+}

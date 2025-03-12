@@ -1,0 +1,101 @@
+{
+  "title": "Kneecap",
+  "year": "2024",
+  "status": "Complete Live",
+  "filename": "PB20ELH0",
+  "tags": [
+    "title card",
+    "kneecap",
+    "balaclava",
+    "gritty",
+    "bold font"
+  ],
+  "genre": [
+    "Comedy",
+    "Coming-of-Age",
+    "Drama",
+    "Music",
+    "Social Justice"
+  ],
+  "director": [
+    "Rich Peppiatt"
+  ],
+  "cinematographer": [
+    "Ryan Kernaghan"
+  ],
+  "production_designer": [
+    "Nicola Moroney"
+  ],
+  "costume_designer": [
+    "Zjena Glamocanin"
+  ],
+  "editor": [
+    "Julian Ulrichs",
+    "Chris Gill"
+  ],
+  "colorist": [
+    "Ciara Gallogly"
+  ],
+  "shot_time": [
+    "00:04:48"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "story_location": [
+    "Earth > Europe > United Kingdom > Northern Ireland > Belfast",
+    "Earth",
+    "Europe",
+    "United Kingdom",
+    "Northern Ireland",
+    "Belfast",
+    "... Northern Ireland > Belfast",
+    "...",
+    "Northern Ireland",
+    "Belfast"
+  ],
+  "filming_location": "Earth > Europe > United Kingdom > Northern Ireland > Belfast",
+  "camera": [
+    "Sony PXW-FX9",
+    "Sony VENICE 2"
+  ],
+  "lens": [
+    "Laowa PeriProbe",
+    "Laowa Zero-D Cine",
+    "Cooke Anamorphic/I SF",
+    "Fujinon Premier Lenses"
+  ],
+  "color_palette": [
+    "#000000",
+    "#030304",
+    "#040504",
+    "#1E1D1E",
+    "#656464",
+    "#676566",
+    "#817F7F",
+    "#817F80",
+    "#A19F9F",
+    "#A5A3A4",
+    "#C1BEBE",
+    "#C2BFC0",
+    "#F1ECEC",
+    "#FAF2F3"
+  ]
+}

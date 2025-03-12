@@ -1,0 +1,129 @@
+{
+  "title": "Tenet",
+  "year": "2020",
+  "status": "Complete Live",
+  "filename": "1YFZPV07",
+  "tags": [
+    "shallow depth of field",
+    "title",
+    "title card"
+  ],
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Thriller",
+    "Time Travel"
+  ],
+  "director": [
+    "Christopher Nolan"
+  ],
+  "cinematographer": [
+    "Hoyte van Hoytema"
+  ],
+  "production_designer": [
+    "Nathan Crowley"
+  ],
+  "costume_designer": [
+    "Jeffrey Kurland"
+  ],
+  "editor": [
+    "Jennifer Lame"
+  ],
+  "colorist": [
+    "Kostas Theodosiou"
+  ],
+  "actors": [
+    "John David Washington"
+  ],
+  "shot_time": [
+    "00:08:37"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "1.78",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 65mm"
+  ],
+  "frame_size": [
+    "Extreme Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Long Lens"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Top light"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Freight Rail Yard"
+  ],
+  "story_location": [
+    "Earth > Europe > Ukraine > Kyiv",
+    "Earth",
+    "Europe",
+    "Ukraine",
+    "Kyiv",
+    "... Ukraine > Kyiv",
+    "...",
+    "Ukraine",
+    "Kyiv"
+  ],
+  "filming_location": "Earth > Europe > Estonia > Tallinn",
+  "camera": [
+    "IMAX-MSM 9802",
+    "Panavision System 65",
+    "Arri 765"
+  ],
+  "lens": [
+    "Panavision Sphero 65mm Lenses",
+    "IMAX MK-II Hasselblad Lenses"
+  ],
+  "film_stock___resolution": [
+    "5219/7219  \tVision 3\t500T",
+    "5207/7207\tVision 3\t250D",
+    "5213/7213\tVision 3\t200T",
+    "5203/7203\tVision 3\t50D"
+  ],
+  "color_palette": [
+    "#0E1E20",
+    "#1F1B1D",
+    "#132220",
+    "#322B25",
+    "#54392E",
+    "#36453D",
+    "#464135",
+    "#475048",
+    "#615649",
+    "#977A69",
+    "#878470",
+    "#878E81",
+    "#9A927A",
+    "#C5C4B0",
+    "#E5E4CD"
+  ]
+}

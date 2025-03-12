@@ -1,0 +1,119 @@
+{
+  "title": "Alice in Wonderland",
+  "year": "2010",
+  "status": "Complete Live",
+  "filename": "OTBX70PB",
+  "tags": [
+    "fog",
+    "foggy",
+    "mist",
+    "nighttime",
+    "city buildings",
+    "gold text",
+    "title card",
+    "text over image"
+  ],
+  "genre": [
+    "Adventure",
+    "Book Adaptation",
+    "Family",
+    "Fantasy",
+    "All in One Day / Night",
+    "Psychedelic"
+  ],
+  "director": [
+    "Tim Burton"
+  ],
+  "cinematographer": [
+    "Dariusz Wolski"
+  ],
+  "production_designer": [
+    "Robert Stromberg"
+  ],
+  "costume_designer": [
+    "Colleen Atwood"
+  ],
+  "editor": [
+    "Chris Lebenzon"
+  ],
+  "colorist": [
+    "Stefan Sonnenfeld"
+  ],
+  "shot_time": [
+    "00:00:54"
+  ],
+  "time_period": [
+    "1800s"
+  ],
+  "color": [
+    "Mixed",
+    "Saturated"
+  ],
+  "aspect_ratio": [
+    "1.78",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "vfx": [
+    "CGI"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "set": [
+    "City"
+  ],
+  "story_location": [
+    "Earth > Europe > United Kingdom > England > London",
+    "Earth",
+    "Europe",
+    "United Kingdom",
+    "England",
+    "London",
+    "... England > London",
+    "...",
+    "England",
+    "London"
+  ],
+  "filming_location": "Earth > North America > United States of America > California > Culver City > Culver Studios",
+  "camera": [
+    "Dalsa Evolution",
+    "Panavision Genesis",
+    "Panavision Panaflex Platinum"
+  ],
+  "lens": [
+    "Leica Lenses",
+    "Panavision Primo Digital Lenses"
+  ],
+  "film_stock___resolution": [
+    "2K"
+  ],
+  "color_palette": [
+    "#111918",
+    "#182224",
+    "#2C2A2B",
+    "#392D1D",
+    "#394047",
+    "#443E3D",
+    "#3C423E",
+    "#3C4247",
+    "#3F4441",
+    "#613F17",
+    "#7E5423",
+    "#B37E3F",
+    "#C89355",
+    "#ECCB89",
+    "#F3D89C"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "La Chimera",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "HAP8KUFE",
+  "tags": [
+    "painting",
+    "illustration",
+    "fresco",
+    "wall art",
+    "drawing",
+    "title",
+    "title card"
+  ],
+  "genre": [
+    "Adventure",
+    "Drama"
+  ],
+  "director": [
+    "Alice Rohrwacher"
+  ],
+  "cinematographer": [
+    "Hélène Louvart"
+  ],
+  "production_designer": [
+    "Emita Frigato"
+  ],
+  "costume_designer": [
+    "Loredana Buscemi"
+  ],
+  "editor": [
+    "Nelly Quettier"
+  ],
+  "colorist": [
+    "Thomas Bouffioulx"
+  ],
+  "shot_time": [
+    "00:07:11"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "aspect_ratio": [
+    "1.78",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium",
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Clean single",
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Temple"
+  ],
+  "story_location": [
+    "Earth > Europe > Italy",
+    "Earth",
+    "Europe",
+    "Italy",
+    "... Europe > Italy",
+    "...",
+    "Europe",
+    "Italy"
+  ],
+  "filming_location": "Earth > Europe > Italy",
+  "camera": [
+    "Arricam LT"
+  ],
+  "lens": [
+    "Zeiss Ultra Prime"
+  ],
+  "color_palette": [
+    "#2E171A",
+    "#3D2723",
+    "#30343A",
+    "#323937",
+    "#523438",
+    "#523731",
+    "#464A4E",
+    "#5C4D4F",
+    "#525B55",
+    "#695A52",
+    "#8A836F",
+    "#9BA895",
+    "#A8A693",
+    "#BDC6AD",
+    "#BAC8AF"
+  ]
+}

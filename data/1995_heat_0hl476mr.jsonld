@@ -1,0 +1,96 @@
+{
+  "title": "Heat",
+  "year": "1995",
+  "status": "Complete Live",
+  "filename": "0HL476MR",
+  "tags": [
+    "block lettering",
+    "title card",
+    "white lettering",
+    "handwritten font"
+  ],
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Heist"
+  ],
+  "director": [
+    "Michael Mann"
+  ],
+  "cinematographer": [
+    "Dante Spinotti"
+  ],
+  "production_designer": [
+    "Neil Spisak"
+  ],
+  "costume_designer": [
+    "Deborah Lynn Scott"
+  ],
+  "editor": [
+    "Pasquale Buba",
+    "William Goldenberg",
+    "Dov Hoenig",
+    "Tom Rolf"
+  ],
+  "colorist": [
+    "David Orr"
+  ],
+  "shot_time": [
+    "00:00:40"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "story_location": [
+    "Earth > North America > United States > California > Los Angeles",
+    "Earth",
+    "North America",
+    "United States",
+    "California",
+    "Los Angeles",
+    "... California > Los Angeles",
+    "...",
+    "California",
+    "Los Angeles"
+  ],
+  "filming_location": "Earth > North America > United States > California > Los Angeles",
+  "camera": [
+    "Panavision Millennium / Millenium XL / XL2"
+  ],
+  "lens": [
+    "Panavision 40-80 (Bailey zoom - AWZ2)",
+    "Panavision 70-200mm (ATZ)",
+    "Panavision C series",
+    "Panavision E series"
+  ],
+  "color_palette": [
+    "#000000",
+    "#010001",
+    "#080A09",
+    "#131617",
+    "#3A4144",
+    "#545D5D",
+    "#555D61",
+    "#798284",
+    "#97A3A3",
+    "#ACB3B6",
+    "#BBBFC5",
+    "#BAC2C3",
+    "#B9C3C3",
+    "#BDC3C6",
+    "#BDC7C6"
+  ]
+}

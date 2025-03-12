@@ -1,0 +1,80 @@
+{
+  "title": "Fargo",
+  "year": "1996",
+  "status": "Complete Live",
+  "filename": "IQ898DB9",
+  "tags": [
+    "title card"
+  ],
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "director": [
+    "Joel Coen"
+  ],
+  "cinematographer": [
+    "Roger Deakins"
+  ],
+  "production_designer": [
+    "Rick Heinrichs"
+  ],
+  "costume_designer": [
+    "Mary Zophres"
+  ],
+  "editor": [
+    "Joel Coen"
+  ],
+  "shot_time": [
+    "00:00:01"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "filming_location": "Earth > North America > United States > Minnesota > Minneapolis",
+  "camera": [
+    "Arriflex BL"
+  ],
+  "lens": [
+    "Zeiss Standard Primes"
+  ],
+  "film_stock___resolution": [
+    "5293/7293  \tEXR\t\t200T"
+  ],
+  "color_palette": [
+    "#070B0A",
+    "#1F232B",
+    "#383E49",
+    "#545555",
+    "#545C6A",
+    "#737E90",
+    "#8DA6CB",
+    "#A3BBE5",
+    "#B0C8F2"
+  ]
+}

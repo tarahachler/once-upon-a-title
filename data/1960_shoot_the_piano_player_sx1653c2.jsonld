@@ -1,0 +1,102 @@
+{
+  "title": "Shoot the Piano Player",
+  "year": "1960",
+  "status": "Complete Live",
+  "filename": "SX1653C2",
+  "tags": [
+    "title",
+    "title card",
+    "white lettering",
+    "piano",
+    "piano hammers",
+    "piano strings"
+  ],
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "director": [
+    "François Truffaut"
+  ],
+  "cinematographer": [
+    "Raoul Coutard"
+  ],
+  "production_designer": [
+    "Jacques Mély"
+  ],
+  "costume_designer": [
+    "Jacques Mély"
+  ],
+  "editor": [
+    "Cécile Decugis",
+    "Claudine Bouché"
+  ],
+  "shot_time": [
+    "00:00:24"
+  ],
+  "time_period": [
+    "1950s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Top light"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Bar"
+  ],
+  "story_location": [
+    "Earth > Europe > France > Paris",
+    "Earth",
+    "Europe",
+    "France",
+    "Paris",
+    "... France > Paris",
+    "...",
+    "France",
+    "Paris"
+  ],
+  "filming_location": "Earth > Europe > France > Paris",
+  "color_palette": [
+    "#202020",
+    "#606061",
+    "#616161",
+    "#8E8E8E",
+    "#A9A9AA",
+    "#EBEBEB"
+  ]
+}

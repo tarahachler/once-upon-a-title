@@ -1,0 +1,96 @@
+{
+  "title": "Matilda",
+  "year": "1996",
+  "status": "Complete Live",
+  "filename": "AJZDZ1NC",
+  "tags": [
+    "title card",
+    "red background",
+    "handwriting",
+    "white font",
+    "capitalized letters",
+    "upper case font"
+  ],
+  "genre": [
+    "Book Adaptation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "director": [
+    "Danny DeVito"
+  ],
+  "cinematographer": [
+    "Stefan Czapsky"
+  ],
+  "production_designer": [
+    "Bill Brzeski"
+  ],
+  "costume_designer": [
+    "Jane Ruhm"
+  ],
+  "editor": [
+    "Lynzee Klingman",
+    "Brent White"
+  ],
+  "colorist": [
+    "Bob Putynkowski"
+  ],
+  "shot_time": [
+    "00:00:31"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "story_location": [
+    "Earth > North America > United States > California",
+    "Earth",
+    "North America",
+    "United States",
+    "California",
+    "... United States > California",
+    "...",
+    "United States",
+    "California"
+  ],
+  "filming_location": "Earth > North America > United States > California",
+  "camera": [
+    "Arriflex 435",
+    "Panavision Panaflex Platinum"
+  ],
+  "lens": [
+    "Panavision Primo Primes"
+  ],
+  "film_stock___resolution": [
+    "5248/7248\tEXR\t\t100T",
+    "5293/7293  \tEXR\t\t200T"
+  ],
+  "color_palette": [
+    "#54121B",
+    "#9D0318",
+    "#8C4651",
+    "#AC6571",
+    "#B8949D",
+    "#D4B2BA",
+    "#E9DFE4",
+    "#EEEEF1",
+    "#F0F0F0"
+  ]
+}

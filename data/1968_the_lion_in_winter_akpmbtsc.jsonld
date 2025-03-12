@@ -1,0 +1,118 @@
+{
+  "title": "The Lion in Winter",
+  "year": "1968",
+  "status": "Complete Live",
+  "filename": "AKPMBTSC",
+  "tags": [
+    "stone face",
+    "sculpture",
+    "creepy",
+    "carving",
+    "artwork",
+    "sculpted",
+    "credits sequence",
+    "opening credits",
+    "title",
+    "title card"
+  ],
+  "genre": [
+    "Drama",
+    "History"
+  ],
+  "director": [
+    "Anthony Harvey"
+  ],
+  "cinematographer": [
+    "Douglas Slocombe"
+  ],
+  "production_designer": [
+    "Peter Murton",
+    "Lee Poll"
+  ],
+  "costume_designer": [
+    "Margaret Furse",
+    "Lee Poll"
+  ],
+  "editor": [
+    "John Bloom"
+  ],
+  "shot_time": [
+    "00:01:00"
+  ],
+  "time_period": [
+    "Medieval: 500-1400"
+  ],
+  "color": [
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Long Lens"
+  ],
+  "lighting": [
+    "Underlight"
+  ],
+  "lighting_type": [
+    "Artificial light",
+    "Firelight"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "set": [
+    "Chapel"
+  ],
+  "story_location": [
+    "Earth > Europe > England",
+    "Earth",
+    "Europe",
+    "England",
+    "... Europe > England",
+    "...",
+    "Europe",
+    "England"
+  ],
+  "filming_location": "Earth > Europe > Ireland",
+  "camera": [
+    "Panavision Silent Reflex (PSR)",
+    "Panavision R-200"
+  ],
+  "lens": [
+    "Panavision C series"
+  ],
+  "color_palette": [
+    "#080E10",
+    "#121011",
+    "#121816",
+    "#1E1A17",
+    "#3B4339",
+    "#444434",
+    "#60654F",
+    "#5C6657",
+    "#7B866B",
+    "#78876F",
+    "#9EA29F",
+    "#A2A19D",
+    "#DADAD7",
+    "#E7EEEC",
+    "#EEF6F7"
+  ]
+}

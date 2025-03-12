@@ -1,0 +1,102 @@
+{
+  "title": "Lawrence of Arabia",
+  "year": "1962",
+  "status": "Complete Live",
+  "filename": "O7GC32VM",
+  "tags": [
+    "motorcycle",
+    "title card",
+    "white letters"
+  ],
+  "genre": [
+    "Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "director": [
+    "David Lean"
+  ],
+  "cinematographer": [
+    "Freddie Young"
+  ],
+  "production_designer": [
+    "John Box"
+  ],
+  "costume_designer": [
+    "Phyllis Dalton",
+    "John Wilson-Apperson"
+  ],
+  "editor": [
+    "Anne V. Coates"
+  ],
+  "shot_time": [
+    "00:04:40"
+  ],
+  "time_period": [
+    "1910s"
+  ],
+  "color": [
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "2.20"
+  ],
+  "format": [
+    "Film - 65mm"
+  ],
+  "frame_size": [
+    "Wide"
+  ],
+  "shot_type": [
+    "Overhead"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "lighting": [
+    "Hard light"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "story_location": [
+    "Earth > Africa > Egypt > Cairo",
+    "Earth",
+    "Africa",
+    "Egypt",
+    "Cairo",
+    "... Egypt > Cairo",
+    "...",
+    "Egypt",
+    "Cairo"
+  ],
+  "filming_location": "Earth > Africa > Morocco",
+  "camera": [
+    "Super Panavision 70"
+  ],
+  "color_palette": [
+    "#1D1B1C",
+    "#201D1A",
+    "#242526",
+    "#2B2C2B",
+    "#453E3A",
+    "#454038",
+    "#4E5657",
+    "#56554A",
+    "#5C625C",
+    "#838376",
+    "#969F95",
+    "#A3A298",
+    "#C2C2B8",
+    "#E2E2DB",
+    "#E0E3DE"
+  ]
+}

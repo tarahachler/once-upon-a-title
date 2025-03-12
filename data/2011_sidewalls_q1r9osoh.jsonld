@@ -1,0 +1,81 @@
+{
+  "title": "Sidewalls",
+  "year": "2011",
+  "status": "Complete Live",
+  "filename": "Q1R9OSOH",
+  "tags": [
+    "black background",
+    "title card",
+    "white text",
+    "lowercase letters",
+    "sans serif",
+    "subtitle"
+  ],
+  "genre": [
+    "Drama",
+    "Romance",
+    "Rom-Com"
+  ],
+  "director": [
+    "Gustavo Taretto"
+  ],
+  "cinematographer": [
+    "Leandro Martínez"
+  ],
+  "production_designer": [
+    "Romeo Fasce",
+    "Luciana Quartaruolo"
+  ],
+  "costume_designer": [
+    "Flavia Gaitán"
+  ],
+  "editor": [
+    "Pablo Mari"
+  ],
+  "colorist": [
+    "Martin Becker"
+  ],
+  "shot_time": [
+    "01:28:00"
+  ],
+  "time_period": [
+    "2010s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "story_location": [
+    "Earth > South America > Argentina > Buenos Aires",
+    "Earth",
+    "South America",
+    "Argentina",
+    "Buenos Aires",
+    "... Argentina > Buenos Aires",
+    "...",
+    "Argentina",
+    "Buenos Aires"
+  ],
+  "filming_location": "Earth > South America > Argentina > Federal District > Buenos Aires",
+  "camera": [
+    "Arriflex 435"
+  ],
+  "color_palette": [
+    "#000000",
+    "#000001",
+    "#0A0B0A",
+    "#424336",
+    "#636359",
+    "#88896D",
+    "#A1A28C",
+    "#C8C9A5",
+    "#CFD0BF"
+  ]
+}

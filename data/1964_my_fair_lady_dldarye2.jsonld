@@ -1,0 +1,121 @@
+{
+  "title": "My Fair Lady",
+  "year": "1964",
+  "status": "Complete Live",
+  "filename": "DLDARYE2",
+  "tags": [
+    "title card",
+    "white text",
+    "fancy font",
+    "feminine",
+    "cursive handwriting",
+    "classic",
+    "floral decoration"
+  ],
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance",
+    "Technicolor Musical"
+  ],
+  "director": [
+    "George Cukor"
+  ],
+  "cinematographer": [
+    "Harry Stradling Sr."
+  ],
+  "production_designer": [
+    "George James Hopkins",
+    "Cecil Beaton"
+  ],
+  "costume_designer": [
+    "Cecil Beaton"
+  ],
+  "editor": [
+    "William H. Ziegler"
+  ],
+  "shot_time": [
+    "00:01:25"
+  ],
+  "time_period": [
+    "1950s"
+  ],
+  "color": [
+    "Cool",
+    "Saturated",
+    "Purple",
+    "White"
+  ],
+  "aspect_ratio": [
+    "2.20",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 70mm"
+  ],
+  "frame_size": [
+    "Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "set": [
+    "Flower Shop"
+  ],
+  "story_location": [
+    "Earth > Europe > England > London",
+    "Earth",
+    "Europe",
+    "England",
+    "London",
+    "... England > London",
+    "...",
+    "England",
+    "London"
+  ],
+  "filming_location": "Earth > North America > United States of America > California > Burbank > Warner Bros Studios",
+  "camera": [
+    "Super Panavision 70"
+  ],
+  "lens": [
+    "Panavision Lenses"
+  ],
+  "film_stock___resolution": [
+    "5251\t        Neg        50T"
+  ],
+  "color_palette": [
+    "#1C0C40",
+    "#37093D",
+    "#4D1D92",
+    "#621B7D",
+    "#6C39AB",
+    "#823897",
+    "#6A6462",
+    "#8658BF",
+    "#9459BA",
+    "#9F7CC5",
+    "#AE91B2",
+    "#ABA59F",
+    "#CDB6CC",
+    "#DFD1DC",
+    "#F2F3DF"
+  ]
+}

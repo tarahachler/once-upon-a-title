@@ -1,0 +1,103 @@
+{
+  "title": "12 Angry Men",
+  "year": "1957",
+  "status": "Complete Live",
+  "filename": "KZBEXDUK",
+  "tags": [
+    "white font",
+    "lowercase",
+    "empty room",
+    "title card",
+    "title shot",
+    "overlay",
+    "superimposition"
+  ],
+  "genre": [
+    "Drama",
+    "Legal",
+    "All in One Day / Night",
+    "Courtroom Drama",
+    "Stage Adaptation"
+  ],
+  "director": [
+    "Sidney Lumet"
+  ],
+  "cinematographer": [
+    "Boris Kaufman"
+  ],
+  "production_designer": [
+    "Bob Markell"
+  ],
+  "editor": [
+    "Carl Lerner"
+  ],
+  "shot_time": [
+    "00:03:17"
+  ],
+  "time_period": [
+    "1950s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.66",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Wide"
+  ],
+  "shot_type": [
+    "Establishing shot",
+    "High angle",
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Right heavy"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "vfx": [
+    "CGI"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Courthouse",
+    "Jury Room"
+  ],
+  "story_location": [
+    "Earth > North America > United States > New York > New York",
+    "Earth",
+    "North America",
+    "United States",
+    "New York",
+    "New York",
+    "... New York > New York",
+    "...",
+    "New York",
+    "New York"
+  ],
+  "filming_location": "Earth > Europe > United States > New York > New York > New York County Courthouse",
+  "color_palette": [
+    "#202020",
+    "#515151",
+    "#9C9C9C",
+    "#E9E9E9"
+  ]
+}

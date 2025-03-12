@@ -1,0 +1,117 @@
+{
+  "title": "The Firm",
+  "year": "1993",
+  "status": "Complete Live",
+  "filename": "5WSBJK57",
+  "tags": [
+    "title card",
+    "white font",
+    "long blonde hair",
+    "bulletin board",
+    "checking results"
+  ],
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "director": [
+    "Sydney Pollack"
+  ],
+  "cinematographer": [
+    "John Seale"
+  ],
+  "production_designer": [
+    "Richard Macdonald"
+  ],
+  "costume_designer": [
+    "Ruth Myers"
+  ],
+  "editor": [
+    "William Steinkamp",
+    "Fredric Steinkamp"
+  ],
+  "shot_time": [
+    "00:00:52"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "aspect_ratio": [
+    "1.78"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium"
+  ],
+  "shot_type": [
+    "2 shot",
+    "Over the shoulder"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light",
+    "Top light"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "University Building",
+    "Bulletin Board"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Massachusetts > Cambridge > Harvard University",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Massachusetts",
+    "Cambridge",
+    "Harvard University",
+    "... Cambridge > Harvard University",
+    "...",
+    "Cambridge",
+    "Harvard University"
+  ],
+  "filming_location": "Earth > North America > United States of America > Massachusetts > Cambridge",
+  "camera": [
+    "Panavision Cameras"
+  ],
+  "lens": [
+    "Panavision Lenses"
+  ],
+  "color_palette": [
+    "#342116",
+    "#232826",
+    "#3F191D",
+    "#2A2B2F",
+    "#692623",
+    "#615056",
+    "#575B59",
+    "#5B5D62",
+    "#6F5D4B",
+    "#9C9089",
+    "#9C9AA4",
+    "#AFA4AD",
+    "#C7B9C8",
+    "#D7C9DA",
+    "#F2ECE7"
+  ]
+}

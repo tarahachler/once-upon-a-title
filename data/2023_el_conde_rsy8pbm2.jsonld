@@ -1,0 +1,114 @@
+{
+  "title": "El Conde",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "RSY8PBM2",
+  "tags": [
+    "title card",
+    "pink font",
+    "old english font",
+    "title over picture",
+    "bleak barracks",
+    "threatening sky",
+    "dark clouds"
+  ],
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "director": [
+    "Pablo Larraín"
+  ],
+  "cinematographer": [
+    "Edward Lachman"
+  ],
+  "editor": [
+    "Sofía Subercaseaux"
+  ],
+  "colorist": [
+    "Joe Gawler"
+  ],
+  "shot_time": [
+    "00:02:02"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Pink"
+  ],
+  "aspect_ratio": [
+    "2.00",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "shot_type": [
+    "Establishing shot"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "lighting_type": [
+    "Overcast"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "House",
+    "Front Yard"
+  ],
+  "story_location": [
+    "Earth > South America > Chile",
+    "Earth",
+    "South America",
+    "Chile",
+    "... South America > Chile",
+    "...",
+    "South America",
+    "Chile"
+  ],
+  "filming_location": "Earth > South America > Chile > Santiago",
+  "camera": [
+    "ARRI ALEXA Mini LF"
+  ],
+  "lens": [
+    "Bausch & Lomb Ultra Baltars"
+  ],
+  "color_palette": [
+    "#292929",
+    "#30292B",
+    "#2C2D2C",
+    "#2D2D2E",
+    "#4C393F",
+    "#413F3F",
+    "#4A4A4B",
+    "#4F504F",
+    "#525252",
+    "#67525A",
+    "#9A707F",
+    "#C38BA0",
+    "#9E9E9E",
+    "#EEA3BF",
+    "#F7B4D2"
+  ]
+}

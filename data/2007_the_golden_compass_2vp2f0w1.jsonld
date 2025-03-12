@@ -1,0 +1,105 @@
+{
+  "title": "The Golden Compass",
+  "year": "2007",
+  "status": "Complete Live",
+  "filename": "2VP2F0W1",
+  "tags": [
+    "title card",
+    "golden",
+    "gold text",
+    "serif font",
+    "black background"
+  ],
+  "genre": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "director": [
+    "Chris Weitz"
+  ],
+  "cinematographer": [
+    "Henry Braham"
+  ],
+  "production_designer": [
+    "Dennis Gassner"
+  ],
+  "costume_designer": [
+    "Ruth Myers"
+  ],
+  "editor": [
+    "Anne V. Coates",
+    "Peter Honess",
+    "Kevin Tent"
+  ],
+  "colorist": [
+    "Mel Kangleon"
+  ],
+  "shot_time": [
+    "00:00:34"
+  ],
+  "time_period": [
+    "Future"
+  ],
+  "color": [
+    "Warm",
+    "Desaturated",
+    "Yellow"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "vfx": [
+    "CGI"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location",
+    "Stage"
+  ],
+  "story_location": [
+    "Earth > Europe > United Kingdom > England > Oxford",
+    "Earth",
+    "Europe",
+    "United Kingdom",
+    "England",
+    "Oxford",
+    "... England > Oxford",
+    "...",
+    "England",
+    "Oxford"
+  ],
+  "filming_location": "Earth > Europe > United Kingdom > England > Oxford",
+  "camera": [
+    "Panavision Genesis",
+    "Panavision Millennium / Millenium XL / XL2"
+  ],
+  "lens": [
+    "Panavision Primo Primes"
+  ],
+  "film_stock___resolution": [
+    "8563/8663\tEterna 250D",
+    "8573/8673\tEterna 500T"
+  ],
+  "color_palette": [
+    "#010100",
+    "#010203",
+    "#020404",
+    "#0A0405",
+    "#62282B",
+    "#603129",
+    "#59421D",
+    "#794346",
+    "#815E34",
+    "#98746D",
+    "#B68C2F",
+    "#B9996F",
+    "#E0C073",
+    "#D4C3BA"
+  ]
+}

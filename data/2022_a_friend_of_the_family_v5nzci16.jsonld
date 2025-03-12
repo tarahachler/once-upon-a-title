@@ -1,0 +1,118 @@
+{
+  "title": "A Friend of the Family",
+  "year": "2022",
+  "status": "Complete Live",
+  "filename": "V5NZCI16",
+  "tags": [
+    "name of show",
+    "opening credits",
+    "title card",
+    "field",
+    "orange van",
+    "trailer",
+    "rv",
+    "font",
+    "graphic"
+  ],
+  "genre": [
+    "Crime"
+  ],
+  "director": [
+    "Rachel Goldberg"
+  ],
+  "cinematographer": [
+    "Hilda Mercado"
+  ],
+  "production_designer": [
+    "John D. Kretschmer"
+  ],
+  "costume_designer": [
+    "Rebecca Gregg"
+  ],
+  "editor": [
+    "Joe Murphy"
+  ],
+  "colorist": [
+    "Mitch Paulson"
+  ],
+  "shot_time": [
+    "00:03:35"
+  ],
+  "time_period": [
+    "1970s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Yellow"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Wide"
+  ],
+  "shot_type": [
+    "Establishing shot",
+    "High angle"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Trailer Park",
+    "RV"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Idaho > Pocatello",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Idaho",
+    "Pocatello",
+    "... Idaho > Pocatello",
+    "...",
+    "Idaho",
+    "Pocatello"
+  ],
+  "filming_location": "Earth > North America > United States of America > Georgia > Canton",
+  "camera": [
+    "ARRI ALEXA Mini LF"
+  ],
+  "lens": [
+    "Tribe 7 Blackwing 7"
+  ],
+  "color_palette": [
+    "#000001",
+    "#020002",
+    "#010201",
+    "#342B13",
+    "#514224",
+    "#775227",
+    "#DBA118",
+    "#EDB31D",
+    "#F8BF23"
+  ]
+}

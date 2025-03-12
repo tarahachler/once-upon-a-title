@@ -1,0 +1,99 @@
+{
+  "title": "Jaws",
+  "year": "1975",
+  "status": "Need Shots",
+  "filename": "IYBCG7V1",
+  "tags": [
+    "block lettering",
+    "capital letters",
+    "coral",
+    "shot from underwater",
+    "title card",
+    "title over picture",
+    "underwater shot",
+    "white letters"
+  ],
+  "genre": [
+    "Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "director": [
+    "Steven Spielberg"
+  ],
+  "cinematographer": [
+    "Bill Butler"
+  ],
+  "production_designer": [
+    "Joe Alves"
+  ],
+  "editor": [
+    "Verna Fields"
+  ],
+  "shot_time": [
+    "00:00:50"
+  ],
+  "time_period": [
+    "1970s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "White"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "set": [
+    "Ocean"
+  ],
+  "story_location": [
+    "Earth > North America > United States > New England > Amity",
+    "Earth",
+    "North America",
+    "United States",
+    "New England",
+    "Amity",
+    "... New England > Amity",
+    "...",
+    "New England",
+    "Amity"
+  ],
+  "filming_location": "Earth > North America > United States > Massachusetts > Martha's Vineyard",
+  "lens": [
+    "Panavision C series"
+  ],
+  "color_palette": [
+    "#11262E",
+    "#233635",
+    "#334644",
+    "#314649",
+    "#42514E",
+    "#555D66",
+    "#7A7E88",
+    "#A3A5AA",
+    "#B6B8B7",
+    "#B9B8B9",
+    "#BBBBBB",
+    "#C4C4C5",
+    "#C4C5C4",
+    "#C5C5C5",
+    "#C6C5C6"
+  ]
+}

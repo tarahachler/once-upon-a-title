@@ -1,0 +1,125 @@
+{
+  "title": "The Shining",
+  "year": "1980",
+  "status": "Complete Live",
+  "filename": "ER77FD32",
+  "tags": [
+    "forest",
+    "lake",
+    "mountains",
+    "national park",
+    "reflection",
+    "title card",
+    "water",
+    "water reflection"
+  ],
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "director": [
+    "Stanley Kubrick"
+  ],
+  "cinematographer": [
+    "John Alcott"
+  ],
+  "production_designer": [
+    "Roy Walker"
+  ],
+  "costume_designer": [
+    "Milena Canonero"
+  ],
+  "editor": [
+    "Ray Lovejoy"
+  ],
+  "colorist": [
+    "Eddie Gordon"
+  ],
+  "shot_time": [
+    "00:01:38"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "color": [
+    "Cool",
+    "Saturated",
+    "Cyan",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.78",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "shot_type": [
+    "Aerial",
+    "Establishing shot"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Hard light"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "set": [
+    "Forest/Woods"
+  ],
+  "story_location": [
+    "Earth > North America > United States > Colorado",
+    "Earth",
+    "North America",
+    "United States",
+    "Colorado",
+    "... United States > Colorado",
+    "...",
+    "United States",
+    "Colorado"
+  ],
+  "filming_location": "Earth > North America > United States > Montana > Glacier National Park",
+  "camera": [
+    "Arriflex 35 IIC",
+    "Arriflex BL"
+  ],
+  "lens": [
+    "Zeiss Super Speed"
+  ],
+  "film_stock___resolution": [
+    "Eastman 100T 5247"
+  ],
+  "color_palette": [
+    "#141A2A",
+    "#1F1A1C",
+    "#1F2620",
+    "#2A2917",
+    "#2E3959",
+    "#4F4624",
+    "#49534D",
+    "#645633",
+    "#485F79",
+    "#637DB0",
+    "#8696BD",
+    "#0ACBDD",
+    "#B7B9D0",
+    "#C0C1D5",
+    "#02F9F9"
+  ]
+}

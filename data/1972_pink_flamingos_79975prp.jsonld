@@ -1,0 +1,121 @@
+{
+  "title": "Pink Flamingos",
+  "year": "1972",
+  "status": "Complete Live",
+  "filename": "79975PRP",
+  "tags": [
+    "blue sky",
+    "curtains",
+    "field",
+    "lawn flamingos",
+    "mobile home",
+    "pink flamingos",
+    "pink trailer",
+    "pink walls",
+    "script font",
+    "title card",
+    "trailer",
+    "trees",
+    "windows"
+  ],
+  "genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "director": [
+    "John Waters"
+  ],
+  "cinematographer": [
+    "John Waters"
+  ],
+  "production_designer": [
+    "Vincent Peranio"
+  ],
+  "costume_designer": [
+    "Van Smith"
+  ],
+  "editor": [
+    "John Waters"
+  ],
+  "shot_time": [
+    "00:00:44"
+  ],
+  "time_period": [
+    "1970s"
+  ],
+  "color": [
+    "Warm",
+    "Cyan",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.66",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 16mm"
+  ],
+  "frame_size": [
+    "Extreme Close Up",
+    "Wide"
+  ],
+  "shot_type": [
+    "Establishing shot"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Hard light",
+    "Top light",
+    "Side light"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Trailer"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Maryland > Phoenix",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Maryland",
+    "Phoenix",
+    "... Maryland > Phoenix",
+    "...",
+    "Maryland",
+    "Phoenix"
+  ],
+  "filming_location": "Earth > North America > United States of America > Maryland > Baltimore",
+  "color_palette": [
+    "#141815",
+    "#2B2319",
+    "#20282B",
+    "#382D2F",
+    "#4E3F2E",
+    "#6A5745",
+    "#655B5D",
+    "#5C6460",
+    "#556E73",
+    "#878271",
+    "#628C95",
+    "#6898A5",
+    "#9E9890",
+    "#939E98",
+    "#DAD9D8"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Minari",
+  "year": "2020",
+  "status": "Complete Live",
+  "filename": "5TMYKG7N",
+  "tags": [
+    "field",
+    "motion blur",
+    "title",
+    "title card",
+    "white text"
+  ],
+  "genre": [
+    "Drama"
+  ],
+  "director": [
+    "Lee Isaac Chung"
+  ],
+  "cinematographer": [
+    "Lachlan Milne"
+  ],
+  "production_designer": [
+    "Lee Yong-ok"
+  ],
+  "costume_designer": [
+    "Susanna Song"
+  ],
+  "editor": [
+    "Harry Yoon"
+  ],
+  "shot_time": [
+    "00:00:37"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "color": [
+    "Cool",
+    "Cyan"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Country Road",
+    "Car"
+  ],
+  "story_location": [
+    "Earth > North America > United States > Arkansas",
+    "Earth",
+    "North America",
+    "United States",
+    "Arkansas",
+    "... United States > Arkansas",
+    "...",
+    "United States",
+    "Arkansas"
+  ],
+  "filming_location": "Earth > North America > United States > Oklahoma",
+  "camera": [
+    "ARRI ALEXA Mini"
+  ],
+  "lens": [
+    "Panavision Ultra Speed II (PVintage)"
+  ],
+  "film_stock___resolution": [
+    "2K"
+  ],
+  "color_palette": [
+    "#222720",
+    "#2C2E24",
+    "#384634",
+    "#444730",
+    "#636344",
+    "#576858",
+    "#808664",
+    "#728880",
+    "#8D9F9A",
+    "#989E8C",
+    "#9FB7BE",
+    "#B4C5BD",
+    "#ACC6CE",
+    "#B7D0DA",
+    "#E5E5D9"
+  ]
+}

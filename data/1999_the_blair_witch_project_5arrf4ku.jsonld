@@ -1,0 +1,83 @@
+{
+  "title": "The Blair Witch Project",
+  "year": "1999",
+  "status": "Complete Live",
+  "filename": "5ARRF4KU",
+  "tags": [
+    "title card",
+    "the blair witch project",
+    "arial std bold font",
+    "movie title",
+    "title screen"
+  ],
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "director": [
+    "Daniel Myrick",
+    "Eduardo Sánchez"
+  ],
+  "cinematographer": [
+    "Neal Fredericks"
+  ],
+  "production_designer": [
+    "Ben Rock"
+  ],
+  "editor": [
+    "Daniel Myrick",
+    "Eduardo Sánchez"
+  ],
+  "colorist": [
+    "John Sellars"
+  ],
+  "shot_time": [
+    "00:00:37"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.37"
+  ],
+  "format": [
+    "Film - 16mm"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Maryland > Burkittsville",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Maryland",
+    "Burkittsville",
+    "... Maryland > Burkittsville",
+    "...",
+    "Maryland",
+    "Burkittsville"
+  ],
+  "filming_location": "Earth > North America > United States of America > Maryland > Montgomery County",
+  "color_palette": [
+    "#000000",
+    "#060906",
+    "#0B0B0C",
+    "#121112",
+    "#555557",
+    "#5A5A58",
+    "#5C5A5B",
+    "#656666",
+    "#A09E9F",
+    "#9E9F9E",
+    "#9F9F9D",
+    "#A6A7A8",
+    "#D1D1D0",
+    "#D1D2D1",
+    "#D2D3D4"
+  ]
+}

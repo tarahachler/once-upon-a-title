@@ -1,0 +1,97 @@
+{
+  "title": "Problemista",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "CA6UASD4",
+  "tags": [
+    "art",
+    "painting",
+    "title card",
+    "egg"
+  ],
+  "genre": [
+    "Comedy"
+  ],
+  "director": [
+    "Julio Torres"
+  ],
+  "cinematographer": [
+    "Fredrik Wenzel"
+  ],
+  "production_designer": [
+    "Katie Byron"
+  ],
+  "costume_designer": [
+    "Catherine George"
+  ],
+  "editor": [
+    "Jacob Secher Schulsinger",
+    "Sara Shaw"
+  ],
+  "colorist": [
+    "Oskar Larsson"
+  ],
+  "shot_time": [
+    "00:07:00"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Yellow",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.85"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "High contrast"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > New York State > New York City",
+    "Earth",
+    "North America",
+    "United States of America",
+    "New York State",
+    "New York City",
+    "... New York State > New York City",
+    "...",
+    "New York State",
+    "New York City"
+  ],
+  "filming_location": "Earth > North America > United States of America > New York > New York City",
+  "color_palette": [
+    "#1A1415",
+    "#24190E",
+    "#1B2A3B",
+    "#2C3F58",
+    "#513A30",
+    "#614215",
+    "#624A4D",
+    "#4F5752",
+    "#43688C",
+    "#AB6E09",
+    "#4F85B4",
+    "#6D91AC",
+    "#C48D0A",
+    "#CDA048",
+    "#D4CEC5"
+  ]
+}

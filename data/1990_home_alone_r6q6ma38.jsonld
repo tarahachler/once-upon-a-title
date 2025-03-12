@@ -1,0 +1,103 @@
+{
+  "title": "Home Alone",
+  "year": "1990",
+  "status": "Complete Live",
+  "filename": "R6Q6MA38",
+  "tags": [
+    "title card",
+    "black backdrop",
+    "blue font",
+    "home graphic",
+    "home alone"
+  ],
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "director": [
+    "Chris Columbus"
+  ],
+  "cinematographer": [
+    "Julio Macat"
+  ],
+  "production_designer": [
+    "John Muto"
+  ],
+  "costume_designer": [
+    "Jay Hurley"
+  ],
+  "editor": [
+    "Raja Gosnell"
+  ],
+  "colorist": [
+    "Mike Milliken"
+  ],
+  "shot_time": [
+    "00:01:02"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "vfx": [
+    "CGI"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Illinois > Winnetka",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Illinois",
+    "Winnetka",
+    "... Illinois > Winnetka",
+    "...",
+    "Illinois",
+    "Winnetka"
+  ],
+  "filming_location": "Earth > North America > United States of America > Illinois > Winnetka",
+  "camera": [
+    "Arriflex BL4"
+  ],
+  "lens": [
+    "Zeiss Super Speed 35mm"
+  ],
+  "film_stock___resolution": [
+    "5296/7296  \tEXR\t\t500T"
+  ],
+  "color_palette": [
+    "#000000",
+    "#010202",
+    "#120E12",
+    "#0A1E3B",
+    "#2D395E",
+    "#3F486A",
+    "#767B8D",
+    "#898991"
+  ]
+}

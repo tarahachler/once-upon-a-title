@@ -1,0 +1,129 @@
+{
+  "title": "Fantastic Mr. Fox",
+  "year": "2009",
+  "status": "Complete Live",
+  "filename": "KOXTOSUM",
+  "tags": [
+    "title card",
+    "empty",
+    "sale",
+    "store",
+    "yellow letters",
+    "closed",
+    "parking spots",
+    "street lights",
+    "one point perspective",
+    "red sign",
+    "abandoned",
+    "vacant"
+  ],
+  "genre": [
+    "Adventure",
+    "Animation",
+    "Book Adaptation",
+    "Comedy",
+    "Family",
+    "Heist"
+  ],
+  "director": [
+    "Wes Anderson"
+  ],
+  "cinematographer": [
+    "Tristan Oliver"
+  ],
+  "production_designer": [
+    "Nelson Lowry"
+  ],
+  "editor": [
+    "Stephen Perkins",
+    "Ralph Foster"
+  ],
+  "colorist": [
+    "Max Horton"
+  ],
+  "shot_time": [
+    "01:21:12"
+  ],
+  "time_period": [
+    "2000s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Yellow"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Wide"
+  ],
+  "shot_type": [
+    "Establishing shot"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Symmetrical"
+  ],
+  "lighting": [
+    "Low contrast"
+  ],
+  "lighting_type": [
+    "Artificial light",
+    "Practical light"
+  ],
+  "vfx": [
+    "Stop Motion"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "set": [
+    "Grocery Store",
+    "Parking Lot"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America",
+    "Earth",
+    "North America",
+    "United States of America",
+    "... North America > United States of America",
+    "...",
+    "North America",
+    "United States of America"
+  ],
+  "filming_location": "Earth > Europe > England",
+  "camera": [
+    "Nikon D3"
+  ],
+  "lens": [
+    "Cooke Varotal Lenses"
+  ],
+  "color_palette": [
+    "#0A0D0A",
+    "#0F1A1C",
+    "#252317",
+    "#524227",
+    "#762C14",
+    "#644D4F",
+    "#4B5A52",
+    "#72502E",
+    "#A07760",
+    "#818B88",
+    "#789092",
+    "#AF9C88",
+    "#D6A312"
+  ]
+}

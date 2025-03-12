@@ -1,0 +1,96 @@
+{
+  "title": "Out of the Past",
+  "year": "1947",
+  "status": "Complete Live",
+  "filename": "S25HRBGI",
+  "tags": [
+    "title",
+    "title card"
+  ],
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "director": [
+    "Jacques Tourneur"
+  ],
+  "cinematographer": [
+    "Nicholas Musuraca"
+  ],
+  "costume_designer": [
+    "Edward Stevenson"
+  ],
+  "editor": [
+    "Samuel E. Beetley"
+  ],
+  "shot_time": [
+    "00:00:20"
+  ],
+  "time_period": [
+    "1940s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.37"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "set": [
+    "Mountains"
+  ],
+  "story_location": [
+    "Earth > North America > USA > California",
+    "Earth",
+    "North America",
+    "USA",
+    "California",
+    "... USA > California",
+    "...",
+    "USA",
+    "California"
+  ],
+  "filming_location": "Earth > North America > USA > California > Los Angeles",
+  "color_palette": [
+    "#0D0C0E",
+    "#0F0E0F",
+    "#1A1A1A",
+    "#1A1B1B",
+    "#575757",
+    "#59585A",
+    "#5A595A",
+    "#626363",
+    "#969596",
+    "#9C9C9C",
+    "#A1A2A2",
+    "#DADADA",
+    "#E0DFE0",
+    "#E4E5E5"
+  ]
+}

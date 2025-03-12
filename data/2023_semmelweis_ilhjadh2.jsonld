@@ -1,0 +1,91 @@
+{
+  "title": "Semmelweis",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "ILHJADH2",
+  "tags": [
+    "title card",
+    "white lettering",
+    "all caps",
+    "italicized",
+    "name",
+    "semmelweis",
+    "black background"
+  ],
+  "genre": [
+    "Drama",
+    "History"
+  ],
+  "director": [
+    "Lajos Koltai"
+  ],
+  "cinematographer": [
+    "András Nagy"
+  ],
+  "production_designer": [
+    "Pater Sparrow"
+  ],
+  "costume_designer": [
+    "Györgyi Szakács"
+  ],
+  "editor": [
+    "Zoltán Kovács"
+  ],
+  "colorist": [
+    "Janó Fekete"
+  ],
+  "shot_time": [
+    "00:00:26"
+  ],
+  "time_period": [
+    "1800s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "2.39"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Title Card"
+  ],
+  "story_location": [
+    "Earth > Europe > Austria > Vienna",
+    "Earth",
+    "Europe",
+    "Austria",
+    "Vienna",
+    "... Austria > Vienna",
+    "...",
+    "Austria",
+    "Vienna"
+  ],
+  "filming_location": "Earth > Europe > Hungary > Budapest",
+  "color_palette": [
+    "#000000",
+    "#0C0B0C",
+    "#111212",
+    "#131315",
+    "#58595A",
+    "#5B5C5B",
+    "#5D5D5D",
+    "#706F70",
+    "#9E9D9E",
+    "#A0A1A2",
+    "#A2A2A1",
+    "#A4A5A5",
+    "#D9DADC",
+    "#DCDEDD",
+    "#DEDEDD"
+  ]
+}

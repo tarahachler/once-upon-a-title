@@ -1,0 +1,75 @@
+{
+  "title": "Frankenstein",
+  "year": "1931",
+  "status": "Complete Live",
+  "filename": "HMUVN049",
+  "tags": [
+    "title card",
+    "frankenstein",
+    "black and white",
+    "graphics"
+  ],
+  "genre": [
+    "Drama",
+    "Horror",
+    "Science Fiction"
+  ],
+  "director": [
+    "James Whale"
+  ],
+  "cinematographer": [
+    "Arthur Edeson",
+    "Paul Ivano"
+  ],
+  "editor": [
+    "Clarence Kolster"
+  ],
+  "shot_time": [
+    "00:01:03"
+  ],
+  "time_period": [
+    "1700s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.33",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "story_location": [
+    "Earth > Europe > Germany > Bavaria",
+    "Earth",
+    "Europe",
+    "Germany",
+    "Bavaria",
+    "... Germany > Bavaria",
+    "...",
+    "Germany",
+    "Bavaria"
+  ],
+  "filming_location": "Earth > North America > United States of America > California",
+  "color_palette": [
+    "#101011",
+    "#111111",
+    "#131213",
+    "#141615",
+    "#5A595A",
+    "#5B5B5B",
+    "#5E5F5E",
+    "#606062",
+    "#8C8C8D",
+    "#959495",
+    "#959595",
+    "#959696",
+    "#C1C2C1",
+    "#C6C6C6"
+  ]
+}

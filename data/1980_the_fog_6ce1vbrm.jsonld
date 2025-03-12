@@ -1,0 +1,120 @@
+{
+  "title": "The Fog",
+  "year": "1980",
+  "status": "Complete Live",
+  "filename": "6CE1VBRM",
+  "tags": [
+    "eerie",
+    "title screen",
+    "title card",
+    "title",
+    "white text",
+    "creepy",
+    "foggy",
+    "fog"
+  ],
+  "genre": [
+    "Horror"
+  ],
+  "director": [
+    "John Carpenter"
+  ],
+  "cinematographer": [
+    "Dean Cundey"
+  ],
+  "production_designer": [
+    "Tommy Lee Wallace"
+  ],
+  "costume_designer": [
+    "Stephen Loomis",
+    "Bill Whitten"
+  ],
+  "editor": [
+    "Charles Bornstein",
+    "Tommy Lee Wallace"
+  ],
+  "shot_time": [
+    "00:04:18"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium"
+  ],
+  "shot_type": [
+    "Establishing shot"
+  ],
+  "lens_size": [
+    "Ultra Wide / Fisheye"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Hard light",
+    "Top light"
+  ],
+  "lighting_type": [
+    "Moonlight"
+  ],
+  "time_of_day": [
+    "Dusk",
+    "Night"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Bay"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > California > Antonio Bay",
+    "Earth",
+    "North America",
+    "United States of America",
+    "California",
+    "Antonio Bay",
+    "... California > Antonio Bay",
+    "...",
+    "California",
+    "Antonio Bay"
+  ],
+  "filming_location": "Earth > North America > USA > California > Point Reyes",
+  "camera": [
+    "Panavision Panaflex"
+  ],
+  "lens": [
+    "Panavision C series"
+  ],
+  "color_palette": [
+    "#020102",
+    "#020201",
+    "#051010",
+    "#07161B",
+    "#2A3F58",
+    "#20475C",
+    "#4A5E70",
+    "#708194",
+    "#8EA0AF",
+    "#B5C0CD",
+    "#B5C3CA",
+    "#EAF1F5",
+    "#F2F9F9"
+  ]
+}

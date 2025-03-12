@@ -1,0 +1,100 @@
+{
+  "title": "Hiroshima Mon Amour",
+  "year": "1959",
+  "status": "Complete Live",
+  "filename": "BXOW62AP",
+  "tags": [
+    "title card",
+    "white text",
+    "all caps",
+    "sans serif font",
+    "crackling",
+    "film grain"
+  ],
+  "genre": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "director": [
+    "Alain Resnais"
+  ],
+  "cinematographer": [
+    "Sacha Vierny",
+    "Michio Takahashi"
+  ],
+  "production_designer": [
+    "Mayo",
+    "Minoru Esaka",
+    "Lucilla Mussini",
+    "Petri"
+  ],
+  "costume_designer": [
+    "Gerard Collery"
+  ],
+  "editor": [
+    "Jasmine Chasney",
+    "Anne Sarraute",
+    "Henri Colpi"
+  ],
+  "shot_time": [
+    "00:01:12"
+  ],
+  "time_period": [
+    "1950s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.37",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Right heavy"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > Asia > Japan > Hiroshima",
+    "Earth",
+    "Asia",
+    "Japan",
+    "Hiroshima",
+    "... Japan > Hiroshima",
+    "...",
+    "Japan",
+    "Hiroshima"
+  ],
+  "filming_location": "Earth > Asia > Japan > Hiroshima",
+  "color_palette": [
+    "#222123",
+    "#252425",
+    "#272727",
+    "#4A494A",
+    "#4E4D4F",
+    "#565656",
+    "#999999",
+    "#C3C3C3"
+  ]
+}

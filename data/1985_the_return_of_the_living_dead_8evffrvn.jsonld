@@ -1,0 +1,89 @@
+{
+  "title": "The Return of the Living Dead",
+  "year": "1985",
+  "status": "Complete Live",
+  "filename": "8EVFFRVN",
+  "tags": [
+    "title card"
+  ],
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Zombie"
+  ],
+  "director": [
+    "Dan O'Bannon"
+  ],
+  "cinematographer": [
+    "Jules Brenner"
+  ],
+  "production_designer": [
+    "William Stout"
+  ],
+  "editor": [
+    "Robert Gordon"
+  ],
+  "shot_time": [
+    "00:08:55"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "color": [
+    "Saturated",
+    "Red"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "set": [
+    "Medical Supply Store",
+    "Basement"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Kentucky > Louisville",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Kentucky",
+    "Louisville",
+    "... Kentucky > Louisville",
+    "...",
+    "Kentucky",
+    "Louisville"
+  ],
+  "filming_location": "Earth > North America > United States of America > California > Los Angeles",
+  "camera": [
+    "Panavision Panaflex"
+  ],
+  "color_palette": [
+    "#0A0F13",
+    "#151816",
+    "#3A0507",
+    "#2D251C",
+    "#474035",
+    "#444644",
+    "#534A44",
+    "#9E0606",
+    "#A20305",
+    "#5D5C63",
+    "#665C5F",
+    "#957D84"
+  ]
+}

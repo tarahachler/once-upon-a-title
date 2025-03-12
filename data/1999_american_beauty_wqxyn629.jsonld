@@ -1,0 +1,100 @@
+{
+  "title": "American Beauty",
+  "year": "1999",
+  "status": "Complete Live",
+  "filename": "WQXYN629",
+  "tags": [
+    "red lettering",
+    "title card"
+  ],
+  "genre": [
+    "Drama",
+    "Suburbia"
+  ],
+  "director": [
+    "Sam Mendes"
+  ],
+  "cinematographer": [
+    "Conrad L. Hall"
+  ],
+  "production_designer": [
+    "Naomi Shohan"
+  ],
+  "costume_designer": [
+    "Julie Weiss"
+  ],
+  "editor": [
+    "Christopher Greenbury",
+    "Tariq Anwar"
+  ],
+  "colorist": [
+    "Phil Hetos"
+  ],
+  "shot_time": [
+    "00:01:10"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Warm",
+    "Desaturated",
+    "Red"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "3 perf",
+    "Spherical",
+    "Super 35"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Illinois > Chicago",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Illinois",
+    "Chicago",
+    "... Illinois > Chicago",
+    "...",
+    "Illinois",
+    "Chicago"
+  ],
+  "filming_location": "Earth > North America > United States of America > California > Sacramento",
+  "camera": [
+    "Panavision Panaflex"
+  ],
+  "lens": [
+    "Panavision Primo Macro 14.5-50mm",
+    "Panavision Primo Primes"
+  ],
+  "film_stock___resolution": [
+    "5248/7248\tEXR\t\t100T",
+    "5274/7274      Vision     200T",
+    "5279/7279\tVision\t500T"
+  ],
+  "color_palette": [
+    "#000000",
+    "#000001",
+    "#000100",
+    "#3A0206",
+    "#9A0614"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Quiz Lady",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "TSPT1MRQ",
+  "tags": [
+    "title card",
+    "yellow font",
+    "black hair",
+    "sitting on couch",
+    "window blinds",
+    "watching tv"
+  ],
+  "genre": [
+    "Comedy"
+  ],
+  "director": [
+    "Jessica Yu"
+  ],
+  "cinematographer": [
+    "Adrian Peng Correia"
+  ],
+  "production_designer": [
+    "Jeff Mann"
+  ],
+  "costume_designer": [
+    "Brenda Abbandandolo"
+  ],
+  "editor": [
+    "Nat Sanders",
+    "Susan Vaill"
+  ],
+  "actors": [
+    "Awkwafina"
+  ],
+  "shot_time": [
+    "00:02:05"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Yellow"
+  ],
+  "aspect_ratio": [
+    "2.00",
+    "Anamorphic"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Clean single"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light",
+    "Side light"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "set": [
+    "House",
+    "Living Room"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Pennsylvania > Pittsburgh",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Pennsylvania",
+    "Pittsburgh",
+    "... Pennsylvania > Pittsburgh",
+    "...",
+    "Pennsylvania",
+    "Pittsburgh"
+  ],
+  "filming_location": "Earth > North America > United States of America > Louisiana > New Orleans",
+  "camera": [
+    "ARRI ALEXA Mini LF"
+  ],
+  "lens": [
+    "Zeiss Master Anamorphics"
+  ],
+  "color_palette": [
+    "#110F10",
+    "#15272C",
+    "#342921",
+    "#2B3432",
+    "#394340",
+    "#324549",
+    "#593829",
+    "#4A4031",
+    "#425053",
+    "#4E5553",
+    "#6F5949",
+    "#9A865A",
+    "#AA8E65",
+    "#959B98",
+    "#DDD459"
+  ]
+}

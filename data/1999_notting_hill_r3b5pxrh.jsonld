@@ -1,0 +1,122 @@
+{
+  "title": "Notting Hill",
+  "year": "1999",
+  "status": "Complete Live",
+  "filename": "R3B5PXRH",
+  "tags": [
+    "paparazzi",
+    "crowd",
+    "title card",
+    "text over image",
+    "underline"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Rom-Com"
+  ],
+  "director": [
+    "Roger Michell"
+  ],
+  "cinematographer": [
+    "Michael Coulter"
+  ],
+  "production_designer": [
+    "Stuart Craig"
+  ],
+  "costume_designer": [
+    "Shuna Harwood"
+  ],
+  "editor": [
+    "Nick Moore"
+  ],
+  "colorist": [
+    "Clive Noakes"
+  ],
+  "shot_time": [
+    "00:01:26"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Cyan"
+  ],
+  "aspect_ratio": [
+    "2.20",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Long Lens"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Low contrast"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "set": [
+    "Theatre Venue"
+  ],
+  "story_location": [
+    "Earth > Europe > United Kingdom > England > London",
+    "Earth",
+    "Europe",
+    "United Kingdom",
+    "England",
+    "London",
+    "... England > London",
+    "...",
+    "England",
+    "London"
+  ],
+  "filming_location": "Earth > Europe > United Kingdom > England > London",
+  "camera": [
+    "Moviecam Compact"
+  ],
+  "lens": [
+    "Zeiss Ultra Prime",
+    "Cooke Varotal Lenses"
+  ],
+  "film_stock___resolution": [
+    "5274/7274      Vision     200T",
+    "5279/7279\tVision\t500T"
+  ],
+  "color_palette": [
+    "#0B1410",
+    "#271B14",
+    "#241D20",
+    "#242328",
+    "#4B3B37",
+    "#4C3F30",
+    "#5D5458",
+    "#555867",
+    "#695A51",
+    "#907F6C",
+    "#8F929D",
+    "#AA8E7E",
+    "#7FB4A4",
+    "#E1DEDB",
+    "#C8E8DF"
+  ]
+}

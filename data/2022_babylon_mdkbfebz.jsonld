@@ -1,0 +1,81 @@
+{
+  "title": "Babylon",
+  "year": "2022",
+  "status": "Complete Live",
+  "filename": "MDKBFEBZ",
+  "tags": [
+    "title card",
+    "black background",
+    "red font"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "director": [
+    "Damien Chazelle"
+  ],
+  "cinematographer": [
+    "Linus Sandgren"
+  ],
+  "production_designer": [
+    "Florencia Martin"
+  ],
+  "costume_designer": [
+    "Mary Zophres"
+  ],
+  "editor": [
+    "Tom Cross"
+  ],
+  "colorist": [
+    "Matt Wallach"
+  ],
+  "shot_time": [
+    "00:31:42"
+  ],
+  "time_period": [
+    "1920s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Close Up",
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "filming_location": "Earth > North America > United States of America",
+  "camera": [
+    "Arricam LT"
+  ],
+  "lens": [
+    "Atlas Orion Series 2x  Anamorphics Primes"
+  ],
+  "film_stock___resolution": [
+    "5203/7203\tVision 3\t50D",
+    "5207/7207\tVision 3\t250D",
+    "5213/7213\tVision 3\t200T",
+    "5219/7219  \tVision 3\t500T"
+  ],
+  "color_palette": [
+    "#000000",
+    "#000001",
+    "#000100",
+    "#29060A",
+    "#BA132B"
+  ]
+}

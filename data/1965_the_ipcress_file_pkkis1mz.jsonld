@@ -1,0 +1,127 @@
+{
+  "title": "The Ipcress File",
+  "year": "1965",
+  "status": "Complete Live",
+  "filename": "PKKIS1MZ",
+  "tags": [
+    "red and white text",
+    "hands reaching",
+    "white canister",
+    "red canister",
+    "silver kettle",
+    "black handle",
+    "coffee beans",
+    "kitchen counter",
+    "stove in background",
+    "title card"
+  ],
+  "genre": [
+    "Action",
+    "CIA",
+    "Crime",
+    "Detective",
+    "FBI",
+    "Mystery",
+    "Police",
+    "Psychological",
+    "Revenge",
+    "Thriller"
+  ],
+  "director": [
+    "Sidney J. Furie"
+  ],
+  "cinematographer": [
+    "Otto Heller"
+  ],
+  "production_designer": [
+    "Ken Adam"
+  ],
+  "costume_designer": [
+    "Muriel Dickson"
+  ],
+  "editor": [
+    "Peter R. Hunt"
+  ],
+  "actors": [
+    "Michael Caine"
+  ],
+  "shot_time": [
+    "00:04:31"
+  ],
+  "time_period": [
+    "1960s"
+  ],
+  "color": [
+    "Saturated",
+    "Red"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Close Up"
+  ],
+  "shot_type": [
+    "High angle",
+    "Insert"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Hard light"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Overcast",
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Apartment Kitchen"
+  ],
+  "story_location": [
+    "Earth > Europe > England > London",
+    "Earth",
+    "Europe",
+    "England",
+    "London",
+    "... England > London",
+    "...",
+    "England",
+    "London"
+  ],
+  "filming_location": "Earth > Europe > England > London",
+  "color_palette": [
+    "#060807",
+    "#14161C",
+    "#251513",
+    "#2B1D20",
+    "#593230",
+    "#8C3C46",
+    "#525C67",
+    "#635D56",
+    "#C00E23",
+    "#676C67",
+    "#8795A0",
+    "#989891",
+    "#CB8A92",
+    "#F3E0E3",
+    "#F5F4F4"
+  ]
+}

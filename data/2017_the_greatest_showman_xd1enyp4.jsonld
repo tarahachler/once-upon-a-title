@@ -1,0 +1,107 @@
+{
+  "title": "The Greatest Showman",
+  "year": "2017",
+  "status": "Complete Live",
+  "filename": "XD1ENYP4",
+  "tags": [
+    "title card",
+    "black screen",
+    "white text",
+    "all caps",
+    "circus design",
+    "circus font"
+  ],
+  "genre": [
+    "Drama",
+    "Music",
+    "Musical"
+  ],
+  "director": [
+    "Michael Gracey"
+  ],
+  "cinematographer": [
+    "Seamus McGarvey"
+  ],
+  "production_designer": [
+    "Nathan Crowley"
+  ],
+  "costume_designer": [
+    "Ellen Mirojnick"
+  ],
+  "editor": [
+    "Joe Hutshing",
+    "Robert Duffy",
+    "Tom Cross",
+    "Michael McCusker",
+    "Jon Poll",
+    "Spencer Susser"
+  ],
+  "colorist": [
+    "Tim Stipan"
+  ],
+  "shot_time": [
+    "00:01:02"
+  ],
+  "time_period": [
+    "1800s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > New York > New York City",
+    "Earth",
+    "North America",
+    "United States of America",
+    "New York",
+    "New York City",
+    "... New York > New York City",
+    "...",
+    "New York",
+    "New York City"
+  ],
+  "filming_location": "Earth > North America > United States of America > New York > New York City",
+  "camera": [
+    "ARRI ALEXA Mini",
+    "Panavision System 65"
+  ],
+  "lens": [
+    "Panavision Compact - 19-90mm (PCZ)",
+    "Panavision Primo 70s",
+    "Panavision Primo Primes",
+    "Panavision Sphero 65mm Lenses",
+    "Zeiss Super Speed MKII"
+  ],
+  "film_stock___resolution": [
+    "ARRIRAW (6.5K)"
+  ],
+  "color_palette": [
+    "#060506",
+    "#050607",
+    "#050706",
+    "#232321",
+    "#41403C",
+    "#464845",
+    "#5B5A55",
+    "#828179",
+    "#A4A399",
+    "#B8BCB4",
+    "#C4C2B6",
+    "#D8D8CA",
+    "#DEE5D8"
+  ]
+}

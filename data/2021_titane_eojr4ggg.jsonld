@@ -1,0 +1,102 @@
+{
+  "title": "Titane",
+  "year": "2021",
+  "status": "Complete Live",
+  "filename": "EOJR4GGG",
+  "tags": [
+    "black",
+    "blue text on black screen",
+    "center text",
+    "movie title",
+    "titane",
+    "title card",
+    "xrays"
+  ],
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller",
+    "Psychedelic"
+  ],
+  "director": [
+    "Julia Ducournau"
+  ],
+  "cinematographer": [
+    "Ruben Impens"
+  ],
+  "production_designer": [
+    "Laurie Colson",
+    "Lise P"
+  ],
+  "costume_designer": [
+    "Anne-Sophie Gledhill"
+  ],
+  "editor": [
+    "Jean-Christophe Bouzy"
+  ],
+  "colorist": [
+    "Peter Bernaers"
+  ],
+  "shot_time": [
+    "00:04:42"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced",
+    "Center"
+  ],
+  "vfx": [
+    "CGI"
+  ],
+  "story_location": [
+    "Earth > Europe > France",
+    "Earth",
+    "Europe",
+    "France",
+    "... Europe > France",
+    "...",
+    "Europe",
+    "France"
+  ],
+  "filming_location": "Earth > Europe > France",
+  "camera": [
+    "ARRI ALEXA Mini LF"
+  ],
+  "lens": [
+    "Zeiss Supreme Prime"
+  ],
+  "film_stock___resolution": [
+    "4K"
+  ],
+  "color_palette": [
+    "#000000",
+    "#010001",
+    "#000101",
+    "#0F161E",
+    "#2C4057",
+    "#425F81",
+    "#5880AF",
+    "#709BD0",
+    "#92BDF5",
+    "#A2C7DC",
+    "#ABD8F4",
+    "#F2FFFF"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "La Haine",
+  "year": "1995",
+  "status": "Complete Live",
+  "filename": "1NIR6KYU",
+  "tags": [
+    "title card",
+    "type writer font",
+    "white text on black screen"
+  ],
+  "genre": [
+    "Drama",
+    "All in One Day / Night"
+  ],
+  "director": [
+    "Mathieu Kassovitz"
+  ],
+  "cinematographer": [
+    "Pierre A"
+  ],
+  "costume_designer": [
+    "Virginie Montel"
+  ],
+  "editor": [
+    "Mathieu Kassovitz",
+    "Scott Stevenson"
+  ],
+  "shot_time": [
+    "00:00:46"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > Europe > France > Banlieue",
+    "Earth",
+    "Europe",
+    "France",
+    "Banlieue",
+    "... France > Banlieue",
+    "...",
+    "France",
+    "Banlieue"
+  ],
+  "filming_location": "Earth > Europe > France > Paris",
+  "color_palette": [
+    "#000000",
+    "#5A5A5A",
+    "#A6A6A6",
+    "#DEDEDE"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Trap",
+  "year": "2024",
+  "status": "Complete Live",
+  "filename": "FNMIR4KA",
+  "tags": [
+    "title",
+    "title card",
+    "dotted lines"
+  ],
+  "genre": [
+    "Crime",
+    "Music",
+    "Thriller"
+  ],
+  "director": [
+    "M. Night Shyamalan"
+  ],
+  "cinematographer": [
+    "Sayombhu Mukdeeprom"
+  ],
+  "production_designer": [
+    "Debbie DeVilla"
+  ],
+  "costume_designer": [
+    "Caroline Duncan"
+  ],
+  "editor": [
+    "Noemi Preiswerk"
+  ],
+  "colorist": [
+    "Michael Hatzer"
+  ],
+  "shot_time": [
+    "00:00:41"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Pennsylvania > Philadelphia",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Pennsylvania",
+    "Philadelphia",
+    "... Pennsylvania > Philadelphia",
+    "...",
+    "Pennsylvania",
+    "Philadelphia"
+  ],
+  "filming_location": "Earth > North America > Canada > Ontario > Toronto",
+  "camera": [
+    "Arricam LT"
+  ],
+  "lens": [
+    "Zeiss Super Speed",
+    "Cooke Panchro Classic"
+  ],
+  "color_palette": [
+    "#020202",
+    "#030404",
+    "#0E0E0F",
+    "#5E5E5E",
+    "#666667",
+    "#ABABAA",
+    "#ABACAB",
+    "#B0B0B1",
+    "#B5B4B5",
+    "#CBCBCC",
+    "#CCCCCC"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "The Graduate",
+  "year": "1967",
+  "status": "Complete Live",
+  "filename": "617PE611",
+  "tags": [
+    "black lettering",
+    "blank stare",
+    "dark suit",
+    "depressed",
+    "title card"
+  ],
+  "genre": [
+    "Romance",
+    "Suburbia",
+    "Comedy",
+    "Drama"
+  ],
+  "director": [
+    "Mike Nichols"
+  ],
+  "cinematographer": [
+    "Robert Surtees"
+  ],
+  "production_designer": [
+    "Richard Sylbert"
+  ],
+  "costume_designer": [
+    "Patricia Zipprodt"
+  ],
+  "editor": [
+    "Sam O'Steen"
+  ],
+  "actors": [
+    "Dustin Hoffman"
+  ],
+  "shot_time": [
+    "00:01:13"
+  ],
+  "time_period": [
+    "1960s"
+  ],
+  "color": [
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Clean single"
+  ],
+  "lens_size": [
+    "Long Lens"
+  ],
+  "composition": [
+    "Right heavy"
+  ],
+  "lighting": [
+    "Hard light",
+    "Side light"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Airport"
+  ],
+  "story_location": [
+    "Earth > North America > United States > California",
+    "Earth",
+    "North America",
+    "United States",
+    "California",
+    "... United States > California",
+    "...",
+    "United States",
+    "California"
+  ],
+  "filming_location": "Earth > North America > United States > California > Los Angeles",
+  "camera": [
+    "Panavision Cameras"
+  ],
+  "lens": [
+    "Panavision Lenses"
+  ],
+  "film_stock___resolution": [
+    "5251\t50T"
+  ],
+  "color_palette": [
+    "#010102",
+    "#020102",
+    "#15130D",
+    "#111713",
+    "#5B3629",
+    "#464037",
+    "#555C5F",
+    "#5B6260",
+    "#686062",
+    "#726761",
+    "#897D77",
+    "#868077",
+    "#A09990",
+    "#979C99",
+    "#D1D0CA"
+  ]
+}

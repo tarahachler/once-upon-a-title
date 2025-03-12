@@ -1,0 +1,88 @@
+{
+  "title": "Amsterdam",
+  "year": "2022",
+  "status": "Complete Live",
+  "filename": "MB7CHZHX",
+  "tags": [
+    "title card",
+    "yellow font",
+    "black background",
+    "bold font"
+  ],
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "director": [
+    "David O. Russell"
+  ],
+  "cinematographer": [
+    "Emmanuel Lubezki"
+  ],
+  "production_designer": [
+    "Judy Becker"
+  ],
+  "costume_designer": [
+    "Albert Wolsky",
+    "J.R. Hawbaker"
+  ],
+  "editor": [
+    "Jay Cassidy"
+  ],
+  "colorist": [
+    "Mitch Paulson"
+  ],
+  "shot_time": [
+    "02:09:08"
+  ],
+  "time_period": [
+    "1930s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Yellow"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Medium"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "filming_location": "Earth > North America > United States > California > Santa Clarita",
+  "camera": [
+    "ARRI ALEXA Mini LF"
+  ],
+  "lens": [
+    "Arri Signature Prime Lenses"
+  ],
+  "film_stock___resolution": [
+    "ARRIRAW (4.5K)"
+  ],
+  "color_palette": [
+    "#000000",
+    "#000001",
+    "#000100",
+    "#020002",
+    "#5E4B14",
+    "#876C19",
+    "#CFA517",
+    "#EABB1A",
+    "#FCC405",
+    "#FDC501"
+  ]
+}

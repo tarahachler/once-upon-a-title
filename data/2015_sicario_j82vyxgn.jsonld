@@ -1,0 +1,83 @@
+{
+  "title": "Sicario",
+  "year": "2015",
+  "status": "Complete Live",
+  "filename": "J82VYXGN",
+  "tags": [
+    "title",
+    "title card",
+    "end title card"
+  ],
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "director": [
+    "Denis Villeneuve"
+  ],
+  "cinematographer": [
+    "Roger Deakins"
+  ],
+  "production_designer": [
+    "Patrice Vermette"
+  ],
+  "costume_designer": [
+    "Renée April"
+  ],
+  "editor": [
+    "Joe Walker"
+  ],
+  "colorist": [
+    "Mitch Paulson"
+  ],
+  "shot_time": [
+    "01:55:12"
+  ],
+  "time_period": [
+    "2010s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced",
+    "Center"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "filming_location": "Earth > Europe > United States of America > New Mexico > Albuquerque",
+  "camera": [
+    "ARRI ALEXA XT / XTplus"
+  ],
+  "lens": [
+    "Zeiss Master Primes"
+  ],
+  "color_palette": [
+    "#000000",
+    "#000001",
+    "#000100",
+    "#020102",
+    "#43403A",
+    "#605C54",
+    "#868075",
+    "#B8AE9D"
+  ]
+}

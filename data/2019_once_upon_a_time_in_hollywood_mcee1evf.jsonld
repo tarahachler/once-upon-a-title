@@ -1,0 +1,143 @@
+{
+  "title": "Once Upon a Time in Hollywood",
+  "year": "2019",
+  "status": "Complete Live",
+  "filename": "MCEE1EVF",
+  "tags": [
+    "above",
+    "cars",
+    "driveway",
+    "font",
+    "movie title",
+    "parked",
+    "title  card",
+    "title card",
+    "title insert"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "director": [
+    "Quentin Tarantino"
+  ],
+  "cinematographer": [
+    "Robert Richardson"
+  ],
+  "production_designer": [
+    "Barbara Ling"
+  ],
+  "costume_designer": [
+    "Arianne Phillips"
+  ],
+  "editor": [
+    "Fred Raskin"
+  ],
+  "colorist": [
+    "Yvan Lucas"
+  ],
+  "shot_time": [
+    "02:36:34"
+  ],
+  "time_period": [
+    "1960s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Yellow"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Wide"
+  ],
+  "shot_type": [
+    "High angle",
+    "Insert"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Hard light"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Hollywood House",
+    "Driveway"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > California > Los Angeles > Hollywood",
+    "Earth",
+    "North America",
+    "United States of America",
+    "California",
+    "Los Angeles",
+    "Hollywood",
+    "... Los Angeles > Hollywood",
+    "...",
+    "Los Angeles",
+    "Hollywood"
+  ],
+  "filming_location": "Earth > North America > United States of America > California > Los Angeles",
+  "camera": [
+    "Panavision Millennium / Millenium XL / XL2",
+    "Arriflex 435",
+    "Aaton Aminima",
+    "Bolex 16mm"
+  ],
+  "lens": [
+    "Panavision Primo Primes",
+    "Panavision Ultra Speed MKII",
+    "Panavision Normal Speed MKII",
+    "Cooke Varotel Zoom lenses",
+    "Panavision C series",
+    "Panavision E series",
+    "Panavision T series"
+  ],
+  "film_stock___resolution": [
+    "5219/7219  \tVision 3\t500T",
+    "5213/7213\tVision 3\t200T",
+    "5294/7294      EXR        400T",
+    "5285/7285\tColor Reversal   100D",
+    "5222/7222       Kodak Double X"
+  ],
+  "color_palette": [
+    "#070B0E",
+    "#141817",
+    "#1B1A1B",
+    "#21201A",
+    "#354347",
+    "#4E4922",
+    "#3F4C52",
+    "#5F6160",
+    "#786A28",
+    "#A0A2A1",
+    "#C4A916",
+    "#EDD00C",
+    "#F8D50A",
+    "#DBDDD9",
+    "#E6E9E5"
+  ]
+}

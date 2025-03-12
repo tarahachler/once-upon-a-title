@@ -1,0 +1,135 @@
+{
+  "title": "My Cousin Vinny",
+  "year": "1992",
+  "status": "Complete Live",
+  "filename": "37MOSVUP",
+  "tags": [
+    "title card",
+    "white superimposed text",
+    "upper-case",
+    "car",
+    "driving",
+    "road",
+    "convertible",
+    "green car",
+    "hills",
+    "highway",
+    "interstate"
+  ],
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Courtroom Drama",
+    "Crime",
+    "Detective",
+    "Drama",
+    "FBI",
+    "Gangster",
+    "Legal",
+    "Marriage",
+    "Murder Mystery",
+    "Police",
+    "Prison",
+    "Road Trip",
+    "Romance",
+    "Small town"
+  ],
+  "director": [
+    "Jonathan Lynn"
+  ],
+  "cinematographer": [
+    "Peter Deming"
+  ],
+  "production_designer": [
+    "Victoria Paul"
+  ],
+  "costume_designer": [
+    "Carol Wood"
+  ],
+  "editor": [
+    "Stephen E. Rivkin",
+    "Tony Lombardo"
+  ],
+  "colorist": [
+    "Mike Milliken"
+  ],
+  "shot_time": [
+    "00:00:43"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Long Lens"
+  ],
+  "lighting": [
+    "Soft light",
+    "Low contrast",
+    "Top light"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Overcast"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "City",
+    "Street"
+  ],
+  "story_location": [
+    "Earth > North America > United States > Alabama",
+    "Earth",
+    "North America",
+    "United States",
+    "Alabama",
+    "... United States > Alabama",
+    "...",
+    "United States",
+    "Alabama"
+  ],
+  "filming_location": "Earth > North America > United States of America > Georgia",
+  "camera": [
+    "Panavision Cameras"
+  ],
+  "lens": [
+    "Panavision Lenses"
+  ],
+  "color_palette": [
+    "#29261A",
+    "#2A2D2B",
+    "#363233",
+    "#333537",
+    "#3D3E45",
+    "#433E3F",
+    "#483D38",
+    "#484033",
+    "#444652",
+    "#554A43",
+    "#554D4E",
+    "#847E7C",
+    "#A39F9C",
+    "#EBE9E8",
+    "#FCFDFD"
+  ]
+}

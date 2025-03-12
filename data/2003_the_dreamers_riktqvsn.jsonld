@@ -1,0 +1,105 @@
+{
+  "title": "The Dreamers",
+  "year": "2003",
+  "status": "Complete Live",
+  "filename": "RIKTQVSN",
+  "tags": [
+    "the dreamers",
+    "title screen",
+    "title",
+    "title card",
+    "movie title",
+    "eiffel tower in background",
+    "eiffel tower"
+  ],
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "director": [
+    "Bernardo Bertolucci"
+  ],
+  "cinematographer": [
+    "Fabio Cianchetti"
+  ],
+  "production_designer": [
+    "Jean Rabasse"
+  ],
+  "costume_designer": [
+    "Louise Stjernsward"
+  ],
+  "editor": [
+    "Jacopo Quadri"
+  ],
+  "colorist": [
+    "Yvan Lucas",
+    "Fabien Pascal"
+  ],
+  "shot_time": [
+    "00:01:13"
+  ],
+  "time_period": [
+    "1960s"
+  ],
+  "color": [
+    "Mixed",
+    "Saturated",
+    "Orange"
+  ],
+  "aspect_ratio": [
+    "1.85"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Eiffel Tower"
+  ],
+  "story_location": [
+    "Earth > Europe > France > Paris",
+    "Earth",
+    "Europe",
+    "France",
+    "Paris",
+    "... France > Paris",
+    "...",
+    "France",
+    "Paris"
+  ],
+  "filming_location": "Earth > Europe > France > Paris",
+  "camera": [
+    "Panavision Cameras"
+  ],
+  "lens": [
+    "Panavision Lenses"
+  ],
+  "color_palette": [
+    "#030307",
+    "#090509",
+    "#1D1A11",
+    "#1A231A",
+    "#364638",
+    "#554222",
+    "#505254",
+    "#556155",
+    "#806640",
+    "#7B8478",
+    "#C07921",
+    "#8C938A",
+    "#9D9C94",
+    "#B09FA1",
+    "#DBC9C0"
+  ]
+}

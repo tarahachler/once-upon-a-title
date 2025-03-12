@@ -1,0 +1,104 @@
+{
+  "title": "Conclave",
+  "year": "2024",
+  "status": "Complete Live",
+  "filename": "7XOBJ4SC",
+  "tags": [
+    "conclave",
+    "title card",
+    "title screen",
+    "movie title",
+    "orange text"
+  ],
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "director": [
+    "Edward Berger"
+  ],
+  "cinematographer": [
+    "Stéphane Fontaine"
+  ],
+  "production_designer": [
+    "Suzie Davies"
+  ],
+  "costume_designer": [
+    "Lisy Christl"
+  ],
+  "editor": [
+    "Nick Emerson"
+  ],
+  "colorist": [
+    "Andrew Daniel"
+  ],
+  "shot_time": [
+    "00:09:15"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Orange"
+  ],
+  "aspect_ratio": [
+    "2.39"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Ambulance",
+    "Stretcher"
+  ],
+  "story_location": [
+    "Earth > Europe > Italy > Lazio > Rome",
+    "Earth",
+    "Europe",
+    "Italy",
+    "Lazio",
+    "Rome",
+    "... Lazio > Rome",
+    "...",
+    "Lazio",
+    "Rome"
+  ],
+  "filming_location": "Earth > Europ > Italy > Lazio > Rome",
+  "camera": [
+    "RED V-Raptor"
+  ],
+  "lens": [
+    "Tribe 7 Blackwing 7",
+    "Angenieux Optimo"
+  ],
+  "color_palette": [
+    "#090708",
+    "#050A0E",
+    "#0D1110",
+    "#1A120B",
+    "#5F3D1B",
+    "#B56E1F",
+    "#C4761E"
+  ]
+}

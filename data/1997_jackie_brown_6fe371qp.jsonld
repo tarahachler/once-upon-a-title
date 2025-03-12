@@ -1,0 +1,135 @@
+{
+  "title": "Jackie Brown",
+  "year": "1997",
+  "status": "Complete Live",
+  "filename": "6FE371QP",
+  "tags": [
+    "70's font",
+    "air hostess",
+    "blue jacket",
+    "blue skirt",
+    "bold text",
+    "brown hair",
+    "copyright",
+    "long hair",
+    "scarf",
+    "standing",
+    "title",
+    "title card",
+    "uniform",
+    "wavy hair",
+    "white shirt",
+    "yellow text"
+  ],
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Heist"
+  ],
+  "director": [
+    "Quentin Tarantino"
+  ],
+  "cinematographer": [
+    "Guillermo Navarro"
+  ],
+  "production_designer": [
+    "David Wasco"
+  ],
+  "costume_designer": [
+    "Mary Claire Hannan"
+  ],
+  "editor": [
+    "Sally Menke"
+  ],
+  "actors": [
+    "Pam Grier"
+  ],
+  "shot_time": [
+    "00:01:18"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red",
+    "Yellow",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Center",
+    "Right heavy"
+  ],
+  "lighting": [
+    "Top light"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Airport"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > California > Los Angeles",
+    "Earth",
+    "North America",
+    "United States of America",
+    "California",
+    "Los Angeles",
+    "... California > Los Angeles",
+    "...",
+    "California",
+    "Los Angeles"
+  ],
+  "filming_location": "Earth > North America > United States of America > California > Los Angeles",
+  "camera": [
+    "Moviecam Compact"
+  ],
+  "lens": [
+    "Zeiss Super Speed"
+  ],
+  "film_stock___resolution": [
+    "5279/7279\tVision\t500T"
+  ],
+  "color_palette": [
+    "#0F1744",
+    "#31161C",
+    "#3E1C16",
+    "#1A2C82",
+    "#73161D",
+    "#84180E",
+    "#344C9F",
+    "#7A4650",
+    "#95522D",
+    "#AC6F5B",
+    "#CF9944",
+    "#EBB00E",
+    "#F6C20F",
+    "#F5C308",
+    "#EDD2C1"
+  ]
+}

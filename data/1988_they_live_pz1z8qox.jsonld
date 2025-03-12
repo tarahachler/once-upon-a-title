@@ -1,0 +1,119 @@
+{
+  "title": "They Live",
+  "year": "1988",
+  "status": "Complete Live",
+  "filename": "PZ1Z8QOX",
+  "tags": [
+    "graffiti",
+    "spray paint on wall",
+    "movie title",
+    "title screen",
+    "they live",
+    "title card"
+  ],
+  "genre": [
+    "Action",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "director": [
+    "John Carpenter"
+  ],
+  "cinematographer": [
+    "Gary B. Kibbe"
+  ],
+  "costume_designer": [
+    "Robert Lewis Bush",
+    "Robin Michel Bush",
+    "John Melvin Young"
+  ],
+  "editor": [
+    "Gib Jaffe",
+    "Frank E. Jimenez"
+  ],
+  "colorist": [
+    "Paul Sage"
+  ],
+  "shot_time": [
+    "00:00:37"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "aspect_ratio": [
+    "2.39"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium Wide"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Soft light",
+    "Top light"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Train Tracks",
+    "Tunnel"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > California > Los Angeles",
+    "Earth",
+    "North America",
+    "United States of America",
+    "California",
+    "Los Angeles",
+    "... California > Los Angeles",
+    "...",
+    "California",
+    "Los Angeles"
+  ],
+  "filming_location": "Earth > North America > USA > California > Los Angeles",
+  "camera": [
+    "Panavision Gold / G2"
+  ],
+  "lens": [
+    "Panavision Super Speed Zeiss MKII"
+  ],
+  "color_palette": [
+    "#0E0708",
+    "#282218",
+    "#1E2730",
+    "#2A312D",
+    "#34404D",
+    "#53382F",
+    "#3B423D",
+    "#464233",
+    "#4C514E",
+    "#5B554C",
+    "#52585D",
+    "#6E686C",
+    "#908681",
+    "#A398A4",
+    "#A09AA9"
+  ]
+}

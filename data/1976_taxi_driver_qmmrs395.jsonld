@@ -1,0 +1,109 @@
+{
+  "title": "Taxi Driver",
+  "year": "1976",
+  "status": "Complete Live",
+  "filename": "QMMRS395",
+  "tags": [
+    "smoke",
+    "title card",
+    "title over picture",
+    "fog",
+    "capital letters"
+  ],
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "director": [
+    "Martin Scorsese"
+  ],
+  "cinematographer": [
+    "Michael Chapman"
+  ],
+  "production_designer": [
+    "Charles Rosen"
+  ],
+  "costume_designer": [
+    "Ruth Morley"
+  ],
+  "editor": [
+    "Tom Rolf",
+    "Melvin Shapiro"
+  ],
+  "colorist": [
+    "Sheri Eisenberg"
+  ],
+  "shot_time": [
+    "00:00:50"
+  ],
+  "time_period": [
+    "1970s"
+  ],
+  "color": [
+    "Warm",
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting_type": [
+    "Artificial light",
+    "Practical light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "City Street"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > New York > New York City",
+    "Earth",
+    "North America",
+    "United States of America",
+    "New York",
+    "New York City",
+    "... New York > New York City",
+    "...",
+    "New York",
+    "New York City"
+  ],
+  "filming_location": "Earth > North America > United States of America > New York > New York City",
+  "camera": [
+    "Arriflex BL"
+  ],
+  "lens": [
+    "Zeiss Super Speed"
+  ],
+  "film_stock___resolution": [
+    "5254/7254                     100T",
+    "5294/7294      EXR        400T"
+  ],
+  "color_palette": [
+    "#000001",
+    "#010001",
+    "#020402",
+    "#19140F",
+    "#4E3E2F",
+    "#5F3822",
+    "#785E44",
+    "#AB7757",
+    "#9C805C",
+    "#C09E74",
+    "#EBBC84",
+    "#E7C29B"
+  ]
+}

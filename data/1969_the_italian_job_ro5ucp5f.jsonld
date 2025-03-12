@@ -1,0 +1,111 @@
+{
+  "title": "The Italian Job",
+  "year": "1969",
+  "status": "Complete Live",
+  "filename": "RO5UCP5F",
+  "tags": [
+    "title card",
+    "driving",
+    "pov",
+    "mountain",
+    "street"
+  ],
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Thriller",
+    "Heist"
+  ],
+  "director": [
+    "Peter Collinson"
+  ],
+  "cinematographer": [
+    "Douglas Slocombe"
+  ],
+  "production_designer": [
+    "Disley Jones"
+  ],
+  "costume_designer": [
+    "Bermans"
+  ],
+  "editor": [
+    "John Trumper"
+  ],
+  "colorist": [
+    "Matt McFarland"
+  ],
+  "shot_time": [
+    "00:01:22"
+  ],
+  "color": [
+    "Saturated",
+    "Red"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Long Lens"
+  ],
+  "lighting_type": [
+    "Daylight",
+    "Sunny"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Car",
+    "Front Seat"
+  ],
+  "story_location": [
+    "Earth > Europe > Italy > The Alps",
+    "Earth",
+    "Europe",
+    "Italy",
+    "The Alps",
+    "... Italy > The Alps",
+    "...",
+    "Italy",
+    "The Alps"
+  ],
+  "filming_location": "Earth > Europe > Italy > Italian Alps",
+  "camera": [
+    "Arriflex 35 IIa"
+  ],
+  "lens": [
+    "Panavision B series",
+    "Panavision C series"
+  ],
+  "color_palette": [
+    "#080D0D",
+    "#181A1E",
+    "#2D2629",
+    "#342B26",
+    "#3D3D46",
+    "#742822",
+    "#515259",
+    "#585154",
+    "#684E49",
+    "#626462",
+    "#F22E18",
+    "#A38884",
+    "#A2979F",
+    "#9FA0A7",
+    "#DBDBE6"
+  ]
+}

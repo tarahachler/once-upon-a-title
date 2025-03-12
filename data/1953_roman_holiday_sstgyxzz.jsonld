@@ -1,0 +1,105 @@
+{
+  "title": "Roman Holiday",
+  "year": "1953",
+  "status": "Complete Live",
+  "filename": "SSTGYXZZ",
+  "tags": [
+    "title card",
+    "plaza",
+    "monument",
+    "pedestrians",
+    "romanesque architecture"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "director": [
+    "William Wyler"
+  ],
+  "cinematographer": [
+    "Henri Alekan",
+    "Franz Planer",
+    "Franz Planer"
+  ],
+  "production_designer": [
+    "Hal Pereira",
+    "Walter H. Tyler",
+    "Luciano Sacripanti"
+  ],
+  "costume_designer": [
+    "Edith Head"
+  ],
+  "editor": [
+    "Robert Swink"
+  ],
+  "shot_time": [
+    "00:00:32"
+  ],
+  "time_period": [
+    "1950s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.37",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "shot_type": [
+    "Aerial",
+    "Establishing shot",
+    "High angle"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Top light"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Piazza"
+  ],
+  "story_location": [
+    "Earth > Europe > Italy > Lazio > Rome",
+    "Earth",
+    "Europe",
+    "Italy",
+    "Lazio",
+    "Rome",
+    "... Lazio > Rome",
+    "...",
+    "Lazio",
+    "Rome"
+  ],
+  "filming_location": "Earth > Europe > Italy > Lazio > Rome",
+  "color_palette": [
+    "#252525",
+    "#5A5A5A",
+    "#9A9A9A",
+    "#D0D0D0"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Speed Racer",
+  "year": "2008",
+  "status": "Complete Live",
+  "filename": "GNPTR3UU",
+  "tags": [
+    "checkered pattern",
+    "title card",
+    "red font",
+    "3d font",
+    "capitalized",
+    "bold",
+    "colorful"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "director": [
+    "Lilly Wachowski",
+    "Lana Wachowski"
+  ],
+  "cinematographer": [
+    "David Tattersall"
+  ],
+  "production_designer": [
+    "Owen Paterson"
+  ],
+  "costume_designer": [
+    "Kym Barrett"
+  ],
+  "editor": [
+    "Zach Staenberg",
+    "Roger Barton"
+  ],
+  "colorist": [
+    "Maxine Gervais"
+  ],
+  "shot_time": [
+    "00:00:28"
+  ],
+  "time_period": [
+    "Future"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red",
+    "Orange",
+    "Blue",
+    "Purple",
+    "Magenta"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "story_location": [
+    "Earth",
+    "Earth",
+    "... Earth",
+    "...",
+    "Earth"
+  ],
+  "filming_location": "Earth > Europe > Germany > Brandenburg > Potsdam > Studio Babelsberg",
+  "camera": [
+    "Phantom HD Gold",
+    "Phantom V Series",
+    "Sony CineAlta F23"
+  ],
+  "lens": [
+    "Zeiss DigiPrimes"
+  ],
+  "color_palette": [
+    "#1C0755",
+    "#530940",
+    "#3B16A9",
+    "#6632B7",
+    "#3C27EB",
+    "#5A33DD",
+    "#BF010C",
+    "#BF0502",
+    "#B42660",
+    "#BD4A19",
+    "#ED2139",
+    "#FB0D05",
+    "#FB170E",
+    "#FAAC02",
+    "#FDB303"
+  ]
+}

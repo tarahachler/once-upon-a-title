@@ -1,0 +1,80 @@
+{
+  "title": "Dracula",
+  "year": "1931",
+  "status": "Complete Live",
+  "filename": "CNY1JR1E",
+  "tags": [
+    "30s",
+    "center",
+    "horror",
+    "title card"
+  ],
+  "genre": [
+    "Horror"
+  ],
+  "director": [
+    "Tod Browning"
+  ],
+  "cinematographer": [
+    "Karl Freund"
+  ],
+  "production_designer": [
+    "John Hoffman",
+    "Herman Rosse"
+  ],
+  "costume_designer": [
+    "Ed Ware",
+    "Vera West"
+  ],
+  "editor": [
+    "Milton Carruth"
+  ],
+  "shot_time": [
+    "00:00:10"
+  ],
+  "time_period": [
+    "1800s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.33",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "story_location": [
+    "Earth > Europe > Transylvania",
+    "Earth",
+    "Europe",
+    "Transylvania",
+    "... Europe > Transylvania",
+    "...",
+    "Europe",
+    "Transylvania"
+  ],
+  "filming_location": "Earth > Europe > Romania > Transylvania",
+  "color_palette": [
+    "#161617",
+    "#1C1D1C",
+    "#1E1E1D",
+    "#201F20",
+    "#413E40",
+    "#3F3F41",
+    "#40403D",
+    "#535253",
+    "#535355",
+    "#525453",
+    "#545453",
+    "#979997",
+    "#999997",
+    "#9A9A9D",
+    "#9D9B9D"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Moulin Rouge!",
+  "year": "2001",
+  "status": "Complete Live",
+  "filename": "6PWTUQD5",
+  "tags": [
+    "hopeful",
+    "melancholy",
+    "mime",
+    "old movie screen",
+    "overlaying",
+    "projection",
+    "sepia",
+    "white makeup",
+    "windmill"
+  ],
+  "genre": [
+    "Drama",
+    "Music",
+    "Musical",
+    "Romance"
+  ],
+  "director": [
+    "Baz Luhrmann"
+  ],
+  "cinematographer": [
+    "Donald McAlpine"
+  ],
+  "production_designer": [
+    "Catherine Martin"
+  ],
+  "costume_designer": [
+    "Catherine Martin",
+    "Angus Strathie"
+  ],
+  "editor": [
+    "Jill Bilcock"
+  ],
+  "actors": [
+    "Ewan McGregor",
+    "John Leguizamo"
+  ],
+  "shot_time": [
+    "00:01:39"
+  ],
+  "time_period": [
+    "1900s"
+  ],
+  "color": [
+    "Desaturated"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "2 shot"
+  ],
+  "lens_size": [
+    "Long Lens"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Hard light",
+    "High contrast",
+    "Side light"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Stage"
+  ],
+  "story_location": [
+    "Earth > Europe > France > Paris",
+    "Earth",
+    "Europe",
+    "France",
+    "Paris",
+    "... France > Paris",
+    "...",
+    "France",
+    "Paris"
+  ],
+  "filming_location": "Earth > Europe > Australia > Sydney",
+  "camera": [
+    "Panavision Millennium / Millenium XL / XL2",
+    "Panavision Panaflex"
+  ],
+  "lens": [
+    "Panavision Primo Primes",
+    "Panavision C series"
+  ],
+  "film_stock___resolution": [
+    "5279/7279\tVision\t500T"
+  ],
+  "color_palette": [
+    "#090708",
+    "#090B09",
+    "#110F0A",
+    "#1E1E22",
+    "#444137",
+    "#4D4F4E",
+    "#5E574F",
+    "#5B5B60",
+    "#686466",
+    "#8F8E94",
+    "#989597",
+    "#AE9C93",
+    "#C9C0B3",
+    "#ECE3D2",
+    "#F2F7F5"
+  ]
+}

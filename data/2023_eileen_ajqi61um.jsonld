@@ -1,0 +1,107 @@
+{
+  "title": "Eileen",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "AJQI61UM",
+  "tags": [
+    "foggy",
+    "smokey",
+    "title card"
+  ],
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "director": [
+    "William Oldroyd"
+  ],
+  "cinematographer": [
+    "Ari Wegner"
+  ],
+  "production_designer": [
+    "Craig Lathrop"
+  ],
+  "costume_designer": [
+    "Olga Mill"
+  ],
+  "editor": [
+    "Nick Emerson"
+  ],
+  "colorist": [
+    "Nat Jencks"
+  ],
+  "shot_time": [
+    "00:01:10"
+  ],
+  "time_period": [
+    "1960s"
+  ],
+  "color": [
+    "Cool"
+  ],
+  "aspect_ratio": [
+    "1.66"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Massachusetts > X-Ville",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Massachusetts",
+    "X-Ville",
+    "... Massachusetts > X-Ville",
+    "...",
+    "Massachusetts",
+    "X-Ville"
+  ],
+  "filming_location": "Earth > North America > USA > Massachusetts > New England",
+  "camera": [
+    "ARRI ALEXA Mini"
+  ],
+  "lens": [
+    "Angenieux - HR Zoom - 25-250mm"
+  ],
+  "color_palette": [
+    "#281215",
+    "#321611",
+    "#293535",
+    "#2E3A3E",
+    "#394047",
+    "#59342F",
+    "#344349",
+    "#534548",
+    "#3D4D55",
+    "#725C4E",
+    "#97766D",
+    "#918464",
+    "#B6A285",
+    "#C0CC9D",
+    "#D5C9B3"
+  ]
+}

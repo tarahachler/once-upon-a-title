@@ -1,0 +1,102 @@
+{
+  "title": "Cuckoo",
+  "year": "2024",
+  "status": "Complete Live",
+  "filename": "TPAENJZM",
+  "tags": [
+    "title card"
+  ],
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Science Fiction"
+  ],
+  "director": [
+    "Tilman Singer"
+  ],
+  "cinematographer": [
+    "Paul Faltz"
+  ],
+  "production_designer": [
+    "Dario Mendez Acosta"
+  ],
+  "costume_designer": [
+    "Frauke Firl"
+  ],
+  "editor": [
+    "Philipp Thomas",
+    "Terel Gibson"
+  ],
+  "colorist": [
+    "Jonas Damm",
+    "Dirk Meier"
+  ],
+  "shot_time": [
+    "00:02:30"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Front Yard"
+  ],
+  "story_location": [
+    "Earth > Europe > Germany > Bavaria > German Alps",
+    "Earth",
+    "Europe",
+    "Germany",
+    "Bavaria",
+    "German Alps",
+    "... Bavaria > German Alps",
+    "...",
+    "Bavaria",
+    "German Alps"
+  ],
+  "filming_location": "Earth > Europe > Germany > Bavaria > German Alps",
+  "camera": [
+    "Arricam LT"
+  ],
+  "lens": [
+    "Cooke/I Anamorphics"
+  ],
+  "film_stock___resolution": [
+    "5207/7207\tVision 3\t250D",
+    "5219/7219  \tVision 3\t500T"
+  ],
+  "color_palette": [
+    "#08070A",
+    "#170C0F",
+    "#12100F",
+    "#1B211E",
+    "#314643",
+    "#374944",
+    "#8C1C2A"
+  ]
+}

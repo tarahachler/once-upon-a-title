@@ -1,0 +1,97 @@
+{
+  "title": "The Substance",
+  "year": "2024",
+  "status": "Complete Live",
+  "filename": "NIIUBWW0",
+  "tags": [
+    "title",
+    "title card",
+    "intertitle",
+    "white text"
+  ],
+  "genre": [
+    "Drama",
+    "Horror",
+    "Science Fiction"
+  ],
+  "director": [
+    "Coralie Fargeat"
+  ],
+  "cinematographer": [
+    "Benjamin Kracun"
+  ],
+  "production_designer": [
+    "Stanislas Reydellet"
+  ],
+  "costume_designer": [
+    "Emmanuelle Youchnovski"
+  ],
+  "editor": [
+    "Jérôme Eltabet",
+    "Coralie Fargeat",
+    "Valentin Féron"
+  ],
+  "colorist": [
+    "Fabien Pascal"
+  ],
+  "shot_time": [
+    "00:14:33"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "story_location": [
+    "Earth > North America > USA > California > Los Angeles",
+    "Earth",
+    "North America",
+    "USA",
+    "California",
+    "Los Angeles",
+    "... California > Los Angeles",
+    "...",
+    "California",
+    "Los Angeles"
+  ],
+  "filming_location": "Earth > Europe > France",
+  "camera": [
+    "ARRI ALEXA Mini LF"
+  ],
+  "lens": [
+    "Laowa Zero-D Cine",
+    "Leitz M 0.8",
+    "Leitz Thalia Lenses",
+    "Sigma 14mm Full frame",
+    "Angenieux Optimo",
+    "Angenieux Type EZ",
+    "Arri Macro",
+    "Canon FD",
+    "Canon K35"
+  ],
+  "color_palette": [
+    "#010101",
+    "#030304",
+    "#212222",
+    "#242324",
+    "#555556",
+    "#5B5B5B",
+    "#6B6C6C",
+    "#717071",
+    "#8F9090",
+    "#A2A2A2",
+    "#A8A7A8",
+    "#DBDADB",
+    "#F9F9F8",
+    "#F9FAF9",
+    "#FBFBFC"
+  ]
+}

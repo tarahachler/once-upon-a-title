@@ -1,0 +1,113 @@
+{
+  "title": "The Magnificent Seven",
+  "year": "1960",
+  "status": "Complete Live",
+  "filename": "1MCB5LZL",
+  "tags": [
+    "title",
+    "title card",
+    "red text",
+    "crops",
+    "maize"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Western"
+  ],
+  "director": [
+    "John Sturges"
+  ],
+  "cinematographer": [
+    "Charles Lang"
+  ],
+  "production_designer": [
+    "Rafael Suárez"
+  ],
+  "costume_designer": [
+    "Bert Henrikson"
+  ],
+  "editor": [
+    "Ferris Webster"
+  ],
+  "shot_time": [
+    "00:00:30"
+  ],
+  "time_period": [
+    "1800s"
+  ],
+  "color": [
+    "Cool",
+    "Saturated",
+    "Red",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Wide"
+  ],
+  "shot_type": [
+    "Establishing shot"
+  ],
+  "lens_size": [
+    "Medium"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting": [
+    "Hard light"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Cropfield"
+  ],
+  "story_location": [
+    "Earth > North America > Mexico",
+    "Earth",
+    "North America",
+    "Mexico",
+    "... North America > Mexico",
+    "...",
+    "North America",
+    "Mexico"
+  ],
+  "filming_location": "Earth > North America > Mexico",
+  "lens": [
+    "Panavision Lenses"
+  ],
+  "color_palette": [
+    "#2F1C21",
+    "#2E2320",
+    "#252737",
+    "#393A4F",
+    "#483C39",
+    "#7D272D",
+    "#574A45",
+    "#484E6D",
+    "#84353B",
+    "#5476C7",
+    "#A46483",
+    "#8C8883",
+    "#B789B0",
+    "#7198EC",
+    "#8DA8F8"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Licorice Pizza",
+  "year": "2021",
+  "status": "Complete Live",
+  "filename": "IFOB6BQ8",
+  "tags": [
+    "title card",
+    "movie title",
+    "licorice pizza"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "director": [
+    "Paul Thomas Anderson"
+  ],
+  "cinematographer": [
+    "Paul Thomas Anderson",
+    "Michael Bauman"
+  ],
+  "production_designer": [
+    "Florencia Martin"
+  ],
+  "costume_designer": [
+    "Mark Bridges"
+  ],
+  "editor": [
+    "Andy Jurgensen"
+  ],
+  "colorist": [
+    "Kristen Zimmerman"
+  ],
+  "shot_time": [
+    "00:00:23"
+  ],
+  "time_period": [
+    "1970s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red",
+    "Yellow",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "2.39",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > California",
+    "Earth",
+    "North America",
+    "United States of America",
+    "California",
+    "... United States of America > California",
+    "...",
+    "United States of America",
+    "California"
+  ],
+  "filming_location": "Earth > North America > United States of America > California",
+  "camera": [
+    "Panavision Millennium / Millenium XL / XL2"
+  ],
+  "lens": [
+    "Panavision C series",
+    "Pathe Lenses"
+  ],
+  "film_stock___resolution": [
+    "5219/7219  \tVision 3\t500T",
+    "5213/7213\tVision 3\t200T",
+    "5203/7203\tVision 3\t50D"
+  ],
+  "color_palette": [
+    "#020200",
+    "#020302",
+    "#030305",
+    "#160C13",
+    "#2B3F61",
+    "#6A2A36",
+    "#4D4C23",
+    "#60404A",
+    "#115882",
+    "#982018",
+    "#505B58",
+    "#93572E",
+    "#B19237",
+    "#CEA544",
+    "#E2CF50"
+  ]
+}

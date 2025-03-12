@@ -1,0 +1,88 @@
+{
+  "title": "The Evil Dead",
+  "year": "1981",
+  "status": "Complete Live",
+  "filename": "R2ZZEST6",
+  "tags": [
+    "title card",
+    "bloody lettering",
+    "horror"
+  ],
+  "genre": [
+    "Horror",
+    "All in One Day / Night"
+  ],
+  "director": [
+    "Sam Raimi"
+  ],
+  "cinematographer": [
+    "Tim Philo"
+  ],
+  "editor": [
+    "Edna Ruth Paul"
+  ],
+  "shot_time": [
+    "00:00:16"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "color": [
+    "Red"
+  ],
+  "aspect_ratio": [
+    "1.33",
+    "Spherical"
+  ],
+  "original_aspect_ratio": [
+    "1.85"
+  ],
+  "format": [
+    "Film - 16mm"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "time_of_day": [
+    "Night"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Cabin"
+  ],
+  "story_location": [
+    "Earth > North America > United Sates > Tennessee",
+    "Earth",
+    "North America",
+    "United Sates",
+    "Tennessee",
+    "... United Sates > Tennessee",
+    "...",
+    "United Sates",
+    "Tennessee"
+  ],
+  "filming_location": "Earth > North America > United States > Tennessee > Morristown",
+  "camera": [
+    "Arriflex 16 BL",
+    "Arriflex 16 ST"
+  ],
+  "color_palette": [
+    "#900001",
+    "#910B09",
+    "#847364",
+    "#A9715C",
+    "#898371",
+    "#93917A"
+  ]
+}

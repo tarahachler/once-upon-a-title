@@ -1,0 +1,123 @@
+{
+  "title": "Frost/Nixon",
+  "year": "2008",
+  "status": "Complete Live",
+  "filename": "0CQOP542",
+  "tags": [
+    "title card",
+    "police patrol",
+    "driving by",
+    "traffic",
+    "film grain"
+  ],
+  "genre": [
+    "Drama",
+    "History",
+    "Political"
+  ],
+  "director": [
+    "Ron Howard"
+  ],
+  "cinematographer": [
+    "Salvatore Totino"
+  ],
+  "production_designer": [
+    "Michael Corenblith"
+  ],
+  "costume_designer": [
+    "Daniel Orlandi"
+  ],
+  "editor": [
+    "Daniel P. Hanley",
+    "Mike Hill"
+  ],
+  "colorist": [
+    "Steve Bowen"
+  ],
+  "shot_time": [
+    "00:01:35"
+  ],
+  "time_period": [
+    "1970s"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Medium Wide"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lens_size": [
+    "Telephoto"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light",
+    "Low contrast"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Day"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "Road"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Washington D.C.",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Washington D.C.",
+    "... United States of America > Washington D.C.",
+    "...",
+    "United States of America",
+    "Washington D.C."
+  ],
+  "filming_location": "Earth > North America > United States of America",
+  "camera": [
+    "Arricam LT",
+    "Arricam ST"
+  ],
+  "lens": [
+    "Angenieux Optimo",
+    "Cooke S4/ i",
+    "Cooke Varotal Lenses"
+  ],
+  "film_stock___resolution": [
+    "5212/7212 \tVision 2   100T",
+    "5218/7218\tVision 2 \t500T"
+  ],
+  "color_palette": [
+    "#0E0B0C",
+    "#18120C",
+    "#171719",
+    "#2D312D",
+    "#4B3C35",
+    "#464135",
+    "#535152",
+    "#5A5C5E",
+    "#5E6461",
+    "#716960",
+    "#897D77",
+    "#868176",
+    "#969085",
+    "#C5C2B4",
+    "#CDC9BC"
+  ]
+}

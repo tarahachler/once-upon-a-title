@@ -1,0 +1,97 @@
+{
+  "title": "Irma Vep",
+  "year": "1996",
+  "status": "Complete Live",
+  "filename": "7GWKFV6W",
+  "tags": [
+    "end credits",
+    "end card",
+    "title card",
+    "name of movie",
+    "name of cast",
+    "red letters",
+    "custom font"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "director": [
+    "Olivier Assayas"
+  ],
+  "cinematographer": [
+    "Eric Gautier"
+  ],
+  "production_designer": [
+    "François-Renaud Labarthe"
+  ],
+  "costume_designer": [
+    "Françoise Clavel"
+  ],
+  "editor": [
+    "Luc Barnier"
+  ],
+  "colorist": [
+    "Nabila Daniault",
+    "Raymond Terrentin"
+  ],
+  "shot_time": [
+    "01:36:17"
+  ],
+  "time_period": [
+    "1990s"
+  ],
+  "color": [
+    "Warm",
+    "Desaturated",
+    "Red"
+  ],
+  "aspect_ratio": [
+    "1.66",
+    "Spherical"
+  ],
+  "format": [
+    "Film - 16mm"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "lighting_type": [
+    "Artificial light"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "set": [
+    "End Credit"
+  ],
+  "story_location": [
+    "Earth > Europe > France > Paris",
+    "Earth",
+    "Europe",
+    "France",
+    "Paris",
+    "... France > Paris",
+    "...",
+    "France",
+    "Paris"
+  ],
+  "filming_location": "Earth > Europe > France > Paris",
+  "color_palette": [
+    "#000305",
+    "#240608",
+    "#121514",
+    "#300908",
+    "#751312",
+    "#3D413E",
+    "#712123",
+    "#853C42",
+    "#585B5D",
+    "#5C5D59",
+    "#5C605D",
+    "#7C827D",
+    "#80817C",
+    "#8D928D",
+    "#91938D"
+  ]
+}

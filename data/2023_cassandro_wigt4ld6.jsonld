@@ -1,0 +1,95 @@
+{
+  "title": "Cassandro",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "WIGT4LD6",
+  "tags": [
+    "black background",
+    "embossed design",
+    "wrestler",
+    "title card",
+    "white letters",
+    "bold"
+  ],
+  "genre": [
+    "Biopic",
+    "Drama",
+    "Sports"
+  ],
+  "director": [
+    "Roger Ross Williams"
+  ],
+  "cinematographer": [
+    "Matías Penachino"
+  ],
+  "production_designer": [
+    "JC Molina"
+  ],
+  "costume_designer": [
+    "María Estela Fernández"
+  ],
+  "editor": [
+    "Affonso Gonçalves",
+    "Sabine Hoffman",
+    "Yibrán Asuad"
+  ],
+  "colorist": [
+    "Nicke Cantarelli"
+  ],
+  "shot_time": [
+    "00:08:05"
+  ],
+  "time_period": [
+    "1980s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.43",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > North America > United States > Texas > El Paso",
+    "Earth",
+    "North America",
+    "United States",
+    "Texas",
+    "El Paso",
+    "... Texas > El Paso",
+    "...",
+    "Texas",
+    "El Paso"
+  ],
+  "filming_location": "Earth > North America > United States > Texas > El Paso",
+  "camera": [
+    "ARRI ALEXA Mini LF"
+  ],
+  "lens": [
+    "Panavision H series"
+  ],
+  "color_palette": [
+    "#000000",
+    "#000002",
+    "#090607",
+    "#101312",
+    "#463C3C",
+    "#3A4340",
+    "#615556",
+    "#655C5B",
+    "#5D6763",
+    "#877C7B",
+    "#79837C",
+    "#A9AEA9",
+    "#AFAFAB",
+    "#C0C0BD",
+    "#BEC1BE"
+  ]
+}

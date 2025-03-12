@@ -1,0 +1,87 @@
+{
+  "title": "Barbarian",
+  "year": "2022",
+  "status": "Complete Live",
+  "filename": "XM03H6HF",
+  "tags": [
+    "title card",
+    "title",
+    "magenta title card"
+  ],
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "director": [
+    "Zach Cregger"
+  ],
+  "cinematographer": [
+    "Zach Kuperstein"
+  ],
+  "production_designer": [
+    "Rossitsa Bakeva"
+  ],
+  "costume_designer": [
+    "Kiril Naumov"
+  ],
+  "editor": [
+    "Joe Murphy"
+  ],
+  "colorist": [
+    "Sam Daley"
+  ],
+  "shot_time": [
+    "00:05:58"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated"
+  ],
+  "aspect_ratio": [
+    "1.85",
+    "Spherical"
+  ],
+  "format": [
+    "Digital"
+  ],
+  "frame_size": [
+    "Medium Close Up"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "composition": [
+    "Balanced"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > Michigan > Detroit",
+    "Earth",
+    "North America",
+    "United States of America",
+    "Michigan",
+    "Detroit",
+    "... Michigan > Detroit",
+    "...",
+    "Michigan",
+    "Detroit"
+  ],
+  "filming_location": "Earth > Europe > Bulgaria > Sofia",
+  "camera": [
+    "Sony VENICE"
+  ],
+  "lens": [
+    "Zeiss Supreme Prime"
+  ],
+  "color_palette": [
+    "#000000",
+    "#000001",
+    "#000100",
+    "#3A012E",
+    "#7B026C",
+    "#8422A4"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Malena",
+  "year": "2000",
+  "status": "Complete Live",
+  "filename": "RGDLAB3N",
+  "tags": [
+    "red font",
+    "title card",
+    "black background"
+  ],
+  "genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "director": [
+    "Giuseppe Tornatore"
+  ],
+  "cinematographer": [
+    "Lajos Koltai"
+  ],
+  "production_designer": [
+    "Francesco Cotone",
+    "Francesco Frigeri"
+  ],
+  "costume_designer": [
+    "Maurizio Millenotti"
+  ],
+  "editor": [
+    "Massimo Quaglia"
+  ],
+  "shot_time": [
+    "00:02:19"
+  ],
+  "time_period": [
+    "1940s"
+  ],
+  "color": [
+    "Warm",
+    "Saturated",
+    "Red"
+  ],
+  "aspect_ratio": [
+    "2.35"
+  ],
+  "shot_type": [
+    "Insert"
+  ],
+  "story_location": [
+    "Earth > Europe > Italy > Sicily > Castelcutò",
+    "Earth",
+    "Europe",
+    "Italy",
+    "Sicily",
+    "Castelcutò",
+    "... Sicily > Castelcutò",
+    "...",
+    "Sicily",
+    "Castelcutò"
+  ],
+  "filming_location": "Earth > Europe > Italy > Sicily > Noto",
+  "camera": [
+    "Panavision Panaflex"
+  ],
+  "lens": [
+    "Panavision Primo Primes"
+  ],
+  "film_stock___resolution": [
+    "5274/7274      Vision     200T",
+    "5279/7279\tVision\t500T"
+  ],
+  "color_palette": [
+    "#000001",
+    "#010000",
+    "#000100",
+    "#070001",
+    "#87191A",
+    "#AF1713",
+    "#BB1F1B"
+  ]
+}

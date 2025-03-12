@@ -1,0 +1,120 @@
+{
+  "title": "Mud",
+  "year": "2013",
+  "status": "Complete Live",
+  "filename": "MUZS2DRN",
+  "tags": [
+    "block lettering",
+    "dawn",
+    "fog",
+    "title card",
+    "white lettering"
+  ],
+  "genre": [
+    "Adventure",
+    "Coming-of-Age",
+    "Drama"
+  ],
+  "director": [
+    "Jeff Nichols"
+  ],
+  "cinematographer": [
+    "Adam Stone"
+  ],
+  "production_designer": [
+    "Richard A. Wright"
+  ],
+  "costume_designer": [
+    "Kari Perkins"
+  ],
+  "editor": [
+    "Julie Monroe"
+  ],
+  "colorist": [
+    "Mitch Paulson"
+  ],
+  "shot_time": [
+    "00:02:17"
+  ],
+  "time_period": [
+    "2010s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "2.35",
+    "Anamorphic"
+  ],
+  "format": [
+    "Film - 35mm"
+  ],
+  "frame_size": [
+    "Extreme Wide",
+    "Wide"
+  ],
+  "shot_type": [
+    "Establishing shot"
+  ],
+  "lens_size": [
+    "Wide"
+  ],
+  "composition": [
+    "Center"
+  ],
+  "lighting": [
+    "Soft light"
+  ],
+  "lighting_type": [
+    "Daylight"
+  ],
+  "time_of_day": [
+    "Dusk"
+  ],
+  "interior_exterior": [
+    "Exterior"
+  ],
+  "set": [
+    "River"
+  ],
+  "story_location": [
+    "Earth > North America > United States > Arkansas",
+    "Earth",
+    "North America",
+    "United States",
+    "Arkansas",
+    "... United States > Arkansas",
+    "...",
+    "United States",
+    "Arkansas"
+  ],
+  "filming_location": "Earth > North America > United States > Arkansas",
+  "camera": [
+    "Arriflex 235",
+    "Panavision Millennium / Millenium XL / XL2"
+  ],
+  "lens": [
+    "Panavision G series"
+  ],
+  "film_stock___resolution": [
+    "5203/7203\tVision 3\t50D",
+    "5207/7207\tVision 3\t250D",
+    "5219/7219  \tVision 3\t500T"
+  ],
+  "color_palette": [
+    "#0D1717",
+    "#172D3B",
+    "#26435A",
+    "#264558",
+    "#476277",
+    "#6B8296",
+    "#70879A",
+    "#B5BAB9",
+    "#BDC2BF",
+    "#BFC4C5",
+    "#C7C9C7",
+    "#D0D0CC"
+  ]
+}

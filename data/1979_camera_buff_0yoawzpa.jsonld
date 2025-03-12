@@ -1,0 +1,83 @@
+{
+  "title": "Camera Buff",
+  "year": "1979",
+  "status": "Complete Live",
+  "filename": "0YOAWZPA",
+  "tags": [
+    "white text",
+    "black background",
+    "simple text",
+    "all caps font",
+    "title card",
+    "sans serif"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "director": [
+    "Krzysztof Kieślowski"
+  ],
+  "cinematographer": [
+    "Jacek Petrycki",
+    "Andrzej Archacki",
+    "Krzysztof Buchowicz",
+    "Krzysztof Jachowicz",
+    "Stanislaw Szablowski"
+  ],
+  "production_designer": [
+    "Andrzej Rafał Waltenberger",
+    "Borzyslawa Chmielewska"
+  ],
+  "costume_designer": [
+    "Gabriela Star-Tyszkiewicz",
+    "Janina Wierzbicka"
+  ],
+  "editor": [
+    "Teresa Miziolek",
+    "Halina Nawrocka"
+  ],
+  "shot_time": [
+    "00:00:34"
+  ],
+  "time_period": [
+    "1970s"
+  ],
+  "color": [
+    "Desaturated",
+    "Black and White"
+  ],
+  "aspect_ratio": [
+    "1.43"
+  ],
+  "composition": [
+    "Left heavy"
+  ],
+  "story_location": [
+    "Earth > Europe > Poland > Wielice",
+    "Earth",
+    "Europe",
+    "Poland",
+    "Wielice",
+    "... Poland > Wielice",
+    "...",
+    "Poland",
+    "Wielice"
+  ],
+  "filming_location": "Earth > Europe > Poland",
+  "color_palette": [
+    "#030103",
+    "#020202",
+    "#111113",
+    "#121313",
+    "#3C3E45",
+    "#535353",
+    "#595B5A",
+    "#5E6063",
+    "#7D7F84",
+    "#9A9C9C",
+    "#9EA0A2",
+    "#E8ECED",
+    "#EDF1F1"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Dream Scenario",
+  "year": "2023",
+  "status": "Complete Live",
+  "filename": "CDLI4XGF",
+  "tags": [
+    "title card",
+    "blue text",
+    "black background"
+  ],
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "director": [
+    "Kristoffer Borgli"
+  ],
+  "cinematographer": [
+    "Benjamin Loeb"
+  ],
+  "production_designer": [
+    "Zosia Mackenzie"
+  ],
+  "costume_designer": [
+    "Kaysie Bergens",
+    "Natalie Bronfman"
+  ],
+  "editor": [
+    "Kristoffer Borgli"
+  ],
+  "colorist": [
+    "Jérôme Cloutier"
+  ],
+  "shot_time": [
+    "00:00:43"
+  ],
+  "time_period": [
+    "2020s"
+  ],
+  "color": [
+    "Cool",
+    "Desaturated",
+    "Cyan",
+    "Blue"
+  ],
+  "aspect_ratio": [
+    "1.85"
+  ],
+  "format": [
+    "Film - 16mm"
+  ],
+  "interior_exterior": [
+    "Interior"
+  ],
+  "location_type": [
+    "Location"
+  ],
+  "story_location": [
+    "Earth > North America > United States of America > New York > Upstate",
+    "Earth",
+    "North America",
+    "United States of America",
+    "New York",
+    "Upstate",
+    "... New York > Upstate",
+    "...",
+    "New York",
+    "Upstate"
+  ],
+  "filming_location": "Earth > North America > Canada > Ontario",
+  "camera": [
+    "Arriflex 416"
+  ],
+  "lens": [
+    "Canon Cinema Primes",
+    "Zeiss Ultra 16mm"
+  ],
+  "film_stock___resolution": [
+    "4K",
+    "5207/7207\tVision 3\t250D",
+    "5219/7219  \tVision 3\t500T"
+  ],
+  "color_palette": [
+    "#020406",
+    "#020706",
+    "#0E0C0B",
+    "#120C0E",
+    "#30464A",
+    "#395353",
+    "#48686D",
+    "#638D93",
+    "#7FB3BB",
+    "#91CED7"
+  ]
+}
