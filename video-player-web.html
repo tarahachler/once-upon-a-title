@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Once upon a title</title>
+
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='white'/%3E%3C/svg%3E"/>
+
+    <!-- Primary Meta Tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Film Title Screens">
+    <meta name="description" content="An interactive exploration of film title screens through the ages, featuring a color-based navigation system">
+    <meta name="keywords" content="film titles, movie history, cinema, interactive, color exploration">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://your-domain.com/">
+    <meta property="og:title" content="Film Title Screens">
+    <meta property="og:description" content="An interactive exploration of film title screens through the ages, featuring a color-based navigation system">
+    <meta property="og:image" content="https://your-domain.com/preview-image.jpg">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://your-domain.com/">
+    <meta property="twitter:title" content="Film Title Screens">
+    <meta property="twitter:description" content="An interactive exploration of film title screens through the ages, featuring a color-based navigation system">
+    <meta property="twitter:image" content="https://your-domain.com/preview-image.jpg">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.4.2/chroma.min.js"></script>
+
+    <style>
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      input[type="color"] {
+        border-radius: 5px;
+        padding: 0;
+        border: 5px solid #ddd;
+      }
+
+      input[type="color"]::-moz-color-swatch {
+        border: none;
+      }
+
+      input[type="color"]::-webkit-color-swatch-wrapper {
+        padding: 0;
+        border-radius: 0;
+      }
+
+      input[type="color"]::-webkit-color-swatch {
+        border: none;
+      }
+
+      body {
+        overflow: hidden;
+        font-family: sans-serif;
+        background: rgb(0, 0, 0);
+      }
+
+      #video-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 85vh;
+        background: rgb(0, 0, 0);
+        box-sizing: border-box;
+      }
+
+      #video-player {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        background: black;
+      }
+
+      #controls {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        background: rgba(0, 0, 0, 0.7);
+        padding: 15px;
+        color: white;
+        max-height: 90vh;
+        overflow-y: auto;
+        max-width: 300px;
+        display: none; /* Hide all filters */
+      }
+
+      #bottom-controls {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 20px;
+        color: black;
+        display: flex;
+        flex-direction: row; /* Changé en row pour aligner horizontalement */
+        align-items: center;
+        justify-content: space-between; /* Espace entre les éléments */
+        z-index: 1000;
+        background: none;
+        width: 100%;
+        height: 15vh;
+        font-size: 3.6em; /* 2x plus grand qu'avant (1.8em * 2) */
+      }
+
+      .filter-group {
+        margin-bottom: 0;
+      }
+
+      .filter-group h3 {
+        margin-bottom: 5px;
+        color: #fff;
+        font-size: 0.9em;
+      }
+
+      .filter-option {
+        display: none; /* Hide all filter options */
+      }
+
+      #current-year {
+        margin: 0;
+        text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
+        background: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        font-size: 1em;
+      }
+
+      #current-details {
+        display: none;
+      }
+
+      /* Make year slider longer */
+      .year-slider input[type="range"] {
+        width: 700px;
+        height: 35px;
+        background: transparent;
+        -webkit-appearance: none;
+        appearance: none;
+      }
+
+      .year-slider input[type="range"]::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 3px;
+        background: black;
+        border-radius: 1.5px;
+      }
+
+      .year-slider input[type="range"]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        width: 15px;
+        height: 30px;
+        background: white;
+        border: 3px solid black;
+        border-radius: 2px;
+        margin-top: -14px;
+        cursor: pointer;
+      }
+
+      /* Firefox styles */
+      .year-slider input[type="range"]::-moz-range-track {
+        width: 100%;
+        height: 3px;
+        background: black;
+        border-radius: 1.5px;
+      }
+
+      .year-slider input[type="range"]::-moz-range-thumb {
+        width: 15px;
+        height: 30px;
+        background: white;
+        border: 3px solid black;
+        border-radius: 2px;
+        cursor: pointer;
+      }
+
+      /* Speed controls styling */
+      .speed-control {
+        display: none; /* Hide speed control */
+      }
+
+      .color-picker {
+        position: relative;
+      }
+
+      #color-filter {
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        padding: 0;
+        border-radius: 2px;
+      }
+
+      #clear-color {
+        position: absolute;
+        right: -20px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: transparent;
+        color: white;
+        font-size: 1.5em;
+        cursor: pointer;
+      }
+
+      #color-match-status {
+        margin-left: 10px;
+        font-weight: normal;
+        font-size: 0.8em;
+        vertical-align: middle;
+      }
+
+      .color-filter-button {
+        width: 150px;
+        height: 100px;
+        border: 3px solid black;
+        background: white;
+        transition: all 0.3s;
+        box-shadow: none;
+        outline: none;
+      }
+
+      .color-filter-button.blue {
+        background: #0000ff;
+        border: 3px solid black;
+      }
+
+      .color-filter-button.yellow {
+        background: #ffff00;
+        border: 3px solid black;
+      }
+
+      .color-filter-button.red {
+        background: #ff0000;
+        border: 3px solid black;
+      }
+
+      .year-slider {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .year-slider .year-label {
+        color: white;
+        font-size: 0.9em;
+      }
+
+      .color-palette {
+        display: none;
+        gap: 20px;
+      }
+
+      .color-dot {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: 3px solid rgb(255, 255, 255);
+      }
+
+      .color-timeline {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 25px;
+        display: flex;
+        flex-direction: row;
+      }
+
+      .timeline-color {
+        flex: 1;
+        height: 100%;
+        transition: background-color 0.3s ease;
+      }
+
+      .color-timeline.filtered {
+        bottom: 25px;
+      }
+
+      #color-picker {
+        width: 30px;
+        height: 30px;
+        border: 0;
+        border-radius: 0;
+        cursor: pointer;
+      }
+
+      #year-display {
+        color: rgb(255, 255, 255);
+        font-size: 0.5em;
+      }
+
+      .year-color-container{
+        width: 100%;
+        display: flex; 
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 1em;
+        margin-right: 0.5em;
+      }
+
+      .playhead {
+        position: fixed;
+        bottom: 0;
+        width: 3px;
+        height: 50px; /* Height to cover both timelines */
+        background-color: white;
+        pointer-events: none;
+        z-index: 1001;
+        transition: left 0.1s linear;
+      }
+
+      #rotation-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: black;
+        z-index: 2000;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        color: white;
+      }
+
+      #rotation-overlay img {
+        width: 64px;
+        height: 64px;
+        margin-bottom: 20px;
+        animation: rotate 2s infinite linear;
+      }
+
+      @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(90deg); }
+      }
+
+      @media screen and (max-width: 1024px) and (orientation: portrait) {
+        #rotation-overlay {
+          display: flex;
+        }
+        
+        #video-container,
+        #bottom-controls,
+        .color-timeline {
+          display: none;
+        }
+      }
+
+      @media screen and (max-width: 1024px) and (orientation: landscape) {
+        #bottom-controls {
+          font-size: 2em;
+        }
+
+        .year-color-container {
+          margin-bottom: 0.5em;
+        }
+
+        #color-picker {
+          width: 20px;
+          height: 20px;
+        }
+
+        .color-timeline {
+          height: 15px;
+        }
+
+        .playhead {
+          height: 30px;
+        }
+      }
+
+      @media screen and (max-width: 1024px) and (orientation: landscape) {
+        .year-color-container{
+          margin-bottom: 3em;
+        }
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div id="rotation-overlay">
+      <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M16.48 2.52c3.27 1.55 5.61 4.72 5.97 8.48h1.5C23.44 4.84 18.29 0 12 0l-.66.03 3.81 3.81 1.33-1.32zm-6.25-.77c-.59-.59-1.54-.59-2.12 0L1.75 8.11c-.59.59-.59 1.54 0 2.12l12.02 12.02c.59.59 1.54.59 2.12 0l6.36-6.36c.59-.59.59-1.54 0-2.12L10.23 1.75zm4.6 19.44L2.81 9.17l6.36-6.36 12.02 12.02-6.36 6.36zm-7.31.29C4.25 19.94 1.91 16.76 1.55 13H.05C.56 19.16 5.71 24 12 24l.66-.03-3.81-3.81-1.33 1.32z'/%3E%3C/svg%3E" alt="Rotate device">
+      <p>Please rotate your device</p>
+    </div>
+
+    <div id="video-container">
+      <video id="video-player" playsinline></video>
+    </div>
+
+    <div id="bottom-controls" style="padding-right: 10rem">
+      <!-- Color and year controls will be injected here -->
+    </div>
+
+    <div id="bottom-controls">
+      <div style="flex: 1"></div>
+      <div class="year-color-container">
+        <input type="color" id="color-picker" value="#ffffff" />
+        <div id="year-display"></div>
+        <div class="color-palette"></div>
+      </div>
+    </div>
+
+    <script>
+      const colorData = [
+        {
+          color: "#60120e",
+          distanceCutoff: 10,
+          deltaEParams: [0.5, 0.5, 0.95],
+        },
+        {
+          color: "#6a520d",
+          distanceCutoff: 10,
+          deltaEParams: [0.5, 0.5, 0.95],
+        },
+        {
+          color: "#11323f",
+          distanceCutoff: 10,
+          deltaEParams: [0.5, 0.5, 0.95],
+        },
+        {
+          color: "#70246d",
+          distanceCutoff: 10,
+          deltaEParams: [0.5, 0.5, 0.95],
+        },
+        {
+          color: "#3f4a0e",
+          distanceCutoff: 10,
+          deltaEParams: [0.5, 0.5, 0.95],
+        },
+      ];
+
+      let COLOR_DISTANCE_CUTOFF = 10;
+      class VideoPlayer {
+        constructor() {
+          this.isMuted = false;
+          this.videos = [];
+          this.filteredVideos = [];
+          this.currentIndex = 0;
+          this.playbackRate = 1.0;
+          this.videoElement = document.getElementById("video-player");
+          this.currentYear = 1931;
+          this.keyPressStartTime = 0;
+          this.keyPressInterval = null;
+          this.selectedColor = null;
+          this.colorIndex = 0; // Track the current color index
+          this.animationFrameId = null; // Add this line
+          this.isDragging = false;
+          this.lastDragX = 0;
+          this.dragThreshold = 5; // Minimum pixels to move before triggering video change
+
+          this.videoElement.addEventListener('ended', () => this.nextVideo());
+
+          // Add mouse/touch event listeners for the whole page
+          document.addEventListener('mousedown', this.startDrag.bind(this));
+          document.addEventListener('mousemove', this.handleDrag.bind(this));
+          document.addEventListener('mouseup', this.stopDrag.bind(this));
+          
+          document.addEventListener('touchstart', (e) => this.startDrag(e.touches[0]));
+          document.addEventListener('touchmove', (e) => this.handleDrag(e.touches[0]));
+          document.addEventListener('touchend', () => this.stopDrag());
+
+          this.init();
+        }
+
+        // Add these new methods
+        startDrag(e) {
+          this.isDragging = true;
+          this.lastDragX = e.clientX;
+        }
+
+        handleDrag(e) {
+  if (!this.isDragging) return;
+
+  const deltaX = e.clientX - this.lastDragX;
+
+  // Adjust sensitivity based on filtered state
+  const videos = this.filteredVideos.length > 0 ? this.filteredVideos : this.videos;
+  this.dragSensitivity = this.filteredVideos.length > 0 ?
+    Math.max(0.5, 3 / this.filteredVideos.length) : // More resistance when filtered
+    Math.min(0.8, videos.length / 200); // Less resistance when not filtered
+
+  // Apply sensitivity to the movement
+  const adjustedDelta = deltaX * this.dragSensitivity;
+
+  if (Math.abs(adjustedDelta) >= this.dragThreshold) {
+    if (adjustedDelta > 0) {
+      this.nextVideo();
+    } else {
+      this.prevVideo();
+    }
+  }
+
+  // Always update lastDragX to ensure smooth dragging
+  this.lastDragX = e.clientX;
+}
+
+
+        stopDrag() {
+          this.isDragging = false;
+        }
+
+        startPlayheadAnimation() {
+          const animate = () => {
+            this.updatePlayhead();
+            this.animationFrameId = requestAnimationFrame(animate);
+          };
+          this.animationFrameId = requestAnimationFrame(animate);
+        }
+
+        stopPlayheadAnimation() {
+          if (this.animationFrameId) {
+            cancelAnimationFrame(this.animationFrameId);
+            this.animationFrameId = null;
+          }
+        }
+
+        updatePlayhead() {
+          if (!this.playhead || !this.videoElement) return;
+
+          const videos = this.filteredVideos.length > 0 ? this.filteredVideos : this.videos;
+          const currentVideo = videos[this.currentIndex];
+
+          // Calculate position based on current video progress and previous videos
+          let totalDuration = 0;
+          let previousDuration = 0;
+
+          videos.forEach((video, index) => {
+            totalDuration += video.duration || 1;
+            if (index < this.currentIndex) {
+              previousDuration += video.duration || 1;
+            }
+          });
+
+          const currentProgress = this.videoElement.currentTime;
+          const progressPercentage = ((previousDuration + currentProgress) / totalDuration) * 100;
+
+          // Update playhead position
+          this.playhead.style.left = `${progressPercentage}%`;
+        }
+
+        async init() {
+          await this.loadData();
+          await this.preloadVideos();
+
+          this.setupKeyboard();
+          this.createColorTimeline();
+          this.createFilteredColorTimeline();
+          this.setupColorPicker();
+          // Suppression de this.setupToggleButton();
+          this.setupTimelineDragging();
+          this.loadVideo();
+          this.videoElement.addEventListener('play', () => this.startPlayheadAnimation());
+          this.videoElement.addEventListener('pause', () => this.stopPlayheadAnimation());
+        }
+
+        async preloadVideos() {
+          const preloadPromises = this.videos.map(async (video) => {
+            return new Promise((resolve) => {
+              const preloadVideo = document.createElement("video");
+              preloadVideo.preload = "auto"; // Preload entire video
+              preloadVideo.src = video.path;
+              preloadVideo.style.display = "none"; // Hide element
+              document.body.appendChild(preloadVideo); // Add to DOM
+
+              preloadVideo.onloadedmetadata = () => {
+                video.duration = preloadVideo.duration;
+                video.preloadElement = preloadVideo; // Store reference
+                resolve();
+              };
+
+              preloadVideo.onerror = () => {
+                video.duration = 0;
+                document.body.removeChild(preloadVideo);
+                resolve();
+              };
+            });
+          });
+
+          await Promise.all(preloadPromises);
+        }
+
+        setupToggleButton() {
+          const toggleButton = document.getElementById("toggle-color-button");
+          toggleButton.addEventListener("click", () => {
+            this.colorIndex = (this.colorIndex + 1) % (colorData.length + 1); // Add one more state
+
+            if (this.colorIndex === colorData.length) {
+              // Reset to no filter state
+              this.selectedColor = null;
+              document.getElementById("color-picker").value = "#ffffff";
+              COLOR_DISTANCE_CUTOFF = 10;
+              chroma.deltaE.parameters = [0.5, 0.5, 0.95];
+            } else {
+              // Apply color filter
+              const currentColorData = colorData[this.colorIndex];
+              this.selectedColor = currentColorData.color;
+              document.getElementById("color-picker").value =
+                this.selectedColor;
+              COLOR_DISTANCE_CUTOFF = currentColorData.distanceCutoff;
+              chroma.deltaE.parameters = currentColorData.deltaEParams;
+            }
+
+            this.updateMainTimeline();
+            this.filterVideosByColor();
+          });
+        }
+
+        async loadData() {
+          const response = await fetch("data-index.json");
+          const allVideos = await response.json();
+
+          // Filtrer les vidéos pour ne garder que celles de 1931 et après
+          this.videos = allVideos
+            .map((videoData) => ({
+              ...videoData,
+              year: parseInt(videoData.year, 10) || 1900,
+              path: this.createVideoPath(videoData),
+            }))
+            .filter((video) => video.year >= 1931)
+            // Trier les vidéos par année
+            .sort((a, b) => a.year - b.year);
+
+          // Plus besoin de filteredVideos, on utilise directement this.videos
+          this.currentIndex = 0;
+        }
+
+        createVideoPath(data) {
+          //todo
+          const slug = data.title.toLowerCase().replace(/[^\w]+/g, "-");
+          return `/${data.year}-${slug}-.mp4`;
+        }
+
+        createColorTimeline() {
+          // Create timeline container
+          const timeline = document.createElement("div");
+          timeline.className = "color-timeline";
+          document.body.appendChild(timeline);
+          this.mainTimeline = timeline; // Store reference to main timeline
+          this.updateMainTimeline();
+        }
+
+        updateMainTimeline() {
+          if (!this.mainTimeline) return;
+
+          this.mainTimeline.innerHTML = "";
+          let videos = [...this.videos]; // Keep original chronological order
+
+          // Calculate total duration
+          const totalDuration = videos.reduce(
+            (sum, video) => sum + (video.duration || 1),
+            0
+          );
+          console.log(totalDuration);
+          // Create color divs for videos in chronological order
+          videos.forEach((video) => {
+            const colorDiv = document.createElement("div");
+            colorDiv.className = "timeline-color";
+            const vibrantColor = this.getMostVibrantColor(video);
+            colorDiv.style.backgroundColor = vibrantColor || "#000000";
+
+            console.log(video.duration);
+            // Set width based on video duration
+            const widthPercentage =
+              ((video.duration || 1) / totalDuration) * 100;
+            colorDiv.style.flex = "none"; // Remove flex: 1
+            colorDiv.style.width = `${widthPercentage}%`;
+
+            this.mainTimeline.appendChild(colorDiv);
+          });
+        }
+
+        updateFilteredTimeline() {
+          this.filteredTimeline.innerHTML = "";
+
+          // Calculate total duration for filtered videos
+          const totalDuration = this.filteredVideos.reduce(
+            (sum, video) => sum + (video.duration || 1),
+            0
+          );
+
+          this.filteredVideos.forEach((video) => {
+            const colorDiv = document.createElement("div");
+            colorDiv.className = "timeline-color";
+            const vibrantColor = this.getMostVibrantColor(video);
+            colorDiv.style.backgroundColor = vibrantColor || "#000000";
+
+            // Set width based on video duration
+            const widthPercentage =
+              ((video.duration || 1) / totalDuration) * 100;
+            colorDiv.style.flex = "none"; // Remove flex: 1
+            colorDiv.style.width = `${widthPercentage}%`;
+
+            this.filteredTimeline.appendChild(colorDiv);
+          });
+        }
+
+        setupColorPicker() {
+  const colorPicker = document.getElementById("color-picker");
+  
+  colorPicker.addEventListener("click", (e) => {
+    e.preventDefault();
+    this.colorIndex = (this.colorIndex + 1) % (colorData.length + 1);
+    
+    if (this.colorIndex === colorData.length) {
+      this.selectedColor = null;
+      colorPicker.value = "#ffffff";
+      COLOR_DISTANCE_CUTOFF = 10;
+      chroma.deltaE.parameters = [0.5, 0.5, 0.95];
+      this.updateFavicon("#ffffff"); // Blanc explicite
+    } else {
+      const currentColorData = colorData[this.colorIndex];
+      this.selectedColor = currentColorData.color;
+      colorPicker.value = this.selectedColor;
+      COLOR_DISTANCE_CUTOFF = currentColorData.distanceCutoff;
+      chroma.deltaE.parameters = currentColorData.deltaEParams;
+      this.updateFavicon(this.selectedColor); // Couleur actuelle
+    }
+    
+    this.updateMainTimeline();
+    this.filterVideosByColor();
+  });
+
+  colorPicker.addEventListener("input", (e) => {
+    this.selectedColor = e.target.value;
+    this.updateFavicon(this.selectedColor); // Mise à jour en direct
+    this.updateMainTimeline();
+    this.filterVideosByColor();
+  });
+}
+
+updateFavicon(color) {
+  const encodedColor = encodeURIComponent(color);
+  const svg = `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='${encodedColor}'/%3E%3C/svg%3E`;
+  const favicon = document.querySelector("link[rel='icon'][type='image/svg+xml']");
+  if (favicon) favicon.href = svg;
+}
+
+        filterVideosByColor() {
+          if (!this.selectedColor) {
+            this.filteredVideos = [...this.videos];
+            // Hide filtered timeline when no color is selected
+            if (this.filteredTimeline) {
+              this.filteredTimeline.style.display = 'none';
+            }
+          } else {
+            // Show filtered timeline when a color is selected
+            if (this.filteredTimeline) {
+              this.filteredTimeline.style.display = 'flex';
+            }
+            const targetColor = chroma(this.selectedColor);
+            // Filter videos but maintain chronological order
+            this.filteredVideos = this.videos.filter((video) => {
+              if (!video.color_palette) return false;
+
+              // Find the minimum distance among all colors in the palette
+              const minDistance = Math.min(
+                ...video.color_palette.map((color) => {
+                  try {
+                    return chroma.deltaE(color, targetColor, 0.5, 0.5, 0.95);
+                  } catch {
+                    return Infinity;
+                  }
+                })
+              );
+
+              return minDistance < COLOR_DISTANCE_CUTOFF;
+            });
+          }
+
+          this.currentIndex = 0;
+          this.updateFilteredTimeline();
+          this.loadVideo();
+        }
+
+        createFilteredColorTimeline() {
+          const timeline = document.createElement("div");
+          timeline.className = "color-timeline filtered";
+          document.body.appendChild(timeline);
+          this.filteredTimeline = timeline;
+
+          const playhead = document.createElement("div");
+          playhead.className = "playhead";
+          document.body.appendChild(playhead);
+          this.playhead = playhead;
+        }
+
+        updateFilteredTimeline() {
+          this.filteredTimeline.innerHTML = "";
+
+          // Calculate total duration for filtered videos
+          const totalDuration = this.filteredVideos.reduce(
+            (sum, video) => sum + (video.duration || 1),
+            0
+          );
+
+          this.filteredVideos.forEach((video) => {
+            const colorDiv = document.createElement("div");
+            colorDiv.className = "timeline-color";
+            const vibrantColor = this.getMostVibrantColor(video);
+            colorDiv.style.backgroundColor = vibrantColor || "#000000";
+
+            // Set width based on video duration
+            const widthPercentage =
+              ((video.duration || 1) / totalDuration) * 100;
+            colorDiv.style.flex = "none"; // Remove flex: 1
+            colorDiv.style.width = `${widthPercentage}%`;
+
+            this.filteredTimeline.appendChild(colorDiv);
+          });
+        }
+
+        loadVideo() {
+          const videos =
+            this.filteredVideos.length > 0 ? this.filteredVideos : this.videos;
+          const video = videos[this.currentIndex];
+
+          if (!video) {
+            this.videoElement.style.display = "none";
+            return;
+          }
+
+          try {
+            this.videoElement.style.display = "block";
+            this.videoElement.src = video.path;
+            this.videoElement.playbackRate = this.playbackRate;
+
+            // Use preloaded duration from metadata
+            video.duration = video.duration || 0;
+
+            // Play video using preloaded data
+            this.videoElement.play().catch((err) => {
+    console.error("Autoplay blocked:", err);
+    this.videoElement.muted = true;
+    this.videoElement.play().finally(() => {
+      this.videoElement.muted = false;
+    });
+  }).then(() => this.startPlayheadAnimation()); // Start playhead animation after play
+
+            // Update UI elements
+            const yearDisplay = document.querySelector("#year-display");
+            yearDisplay.textContent = video.year;
+            this.currentYear = video.year;
+
+            // Update color palette display
+            const colorPalette = document.querySelector(".color-palette");
+            const mostVibrantColor = this.getMostVibrantColor(video);
+            colorPalette.innerHTML = mostVibrantColor
+              ? `<div class="color-dot" style="background-color: ${mostVibrantColor}"></div>`
+              : "";
+
+            // Highlight current timeline position
+            document
+              .querySelectorAll(".timeline-color")
+              .forEach((div, index) => {
+                div.style.opacity = index === this.currentIndex ? "1" : "0.5";
+              });
+          } catch (err) {
+            console.error("Video load error:", err);
+            this.videoElement.style.display = "none";
+          }
+        }
+
+        getMostVibrantColor(video) {
+          if (!video.color_palette || !Array.isArray(video.color_palette)) {
+            return null;
+          }
+
+          let mostVibrantColor = null;
+          let highestVibrancy = -1;
+
+          video.color_palette.forEach((color) => {
+            try {
+              const c = chroma(color);
+              const hsv = c.hsv();
+              const s = hsv[1] || 0;
+              const v = hsv[2] || 0;
+              const vibrancy = s * (0.3 + 0.7 * v);
+
+              if (vibrancy > highestVibrancy) {
+                highestVibrancy = vibrancy;
+                mostVibrantColor = color;
+              }
+            } catch {
+              // Ignore conversion errors
+            }
+          });
+
+          return mostVibrantColor;
+        }
+
+        getMostVibrantColorForYear(year) {
+          // Récupérer toutes les vidéos de l'année spécifiée
+          const videosForYear = this.videos.filter(
+            (video) => video.year === year
+          );
+
+          // Initialiser une variable pour stocker la couleur la plus vibrante
+          let mostVibrantColor = null;
+          let highestVibrancy = -1;
+
+          videosForYear.forEach((video) => {
+            if (!video.color_palette || !Array.isArray(video.color_palette)) {
+              return;
+            }
+
+            video.color_palette.forEach((color) => {
+              try {
+                const c = chroma(color);
+                const hsv = c.hsv();
+                const s = hsv[1] || 0;
+                const v = hsv[2] || 0;
+                const vibrancy = s * (0.3 + 0.7 * v);
+
+                // Mettre à jour la couleur la plus vibrante trouvée
+                if (vibrancy > highestVibrancy) {
+                  highestVibrancy = vibrancy;
+                  mostVibrantColor = color;
+                }
+              } catch {
+                // Ignorer les erreurs de conversion
+              }
+            });
+          });
+
+          return mostVibrantColor;
+        }
+
+        getAllColorsForYear(year) {
+          // Récupérer toutes les vidéos de l'année spécifiée
+          const videosForYear = this.videos.filter(
+            (video) => video.year === year
+          );
+
+          // Pour chaque vidéo, sélectionner jusqu'à 3 couleurs les plus vives
+          const vibrantColors = videosForYear.flatMap((video) => {
+            if (!video.color_palette || !Array.isArray(video.color_palette)) {
+              return [];
+            }
+
+            try {
+              // Calculer le score de vivacité pour chaque couleur
+              const colorScores = video.color_palette
+                .map((color) => {
+                  try {
+                    const c = chroma(color);
+                    // Utiliser la saturation (s) et la luminance (v) de HSV
+                    const hsv = c.hsv();
+                    const s = hsv[1] || 0;
+                    const v = hsv[2] || 0;
+                    // Score de vivacité : plus haute saturation et valeur moyenne à haute
+                    const vibrancy = s * (0.3 + 0.7 * v);
+                    return { color, vibrancy };
+                  } catch {
+                    return { color, vibrancy: -1 };
+                  }
+                })
+                .filter((score) => score.vibrancy >= 0); // Enlever les couleurs invalides
+
+              // Trier par vivacité et prendre les 3 plus vives
+              return colorScores
+                .sort((a, b) => b.vibrancy - a.vibrancy)
+                .slice(0, 3)
+                .map((score) => score.color);
+            } catch {
+              // Si quelque chose ne va pas, retourner la première couleur si elle existe
+              return video.color_palette.slice(0, 1);
+            }
+          });
+
+          // Supprimer les doublons et les valeurs nulles/undefined
+          return [...new Set(vibrantColors.filter(Boolean))];
+        }
+
+        setupKeyboard() {
+          document.addEventListener("keydown", (e) => {
+            switch (e.key.toLowerCase()) {
+              case "arrowleft":
+                this.prevVideo();
+                break;
+              case "arrowright":
+                this.nextVideo();
+                break;
+              case " ":
+                this.togglePlay();
+                break;
+              case "m":
+                this.toggleMute();
+                break;
+              case "y":
+                // Simulate a click on the color picker
+                const colorPicker = document.getElementById("color-picker");
+                colorPicker.click();
+                break;
+            }
+          });
+        }
+
+        setupTimelineDragging() {
+          const timeline = this.mainTimeline;
+
+          const onMouseDown = (e) => {
+            this.isDragging = true;
+            this.updatePlayheadFromEvent(e);
+            window.addEventListener("mousemove", onMouseMove);
+            window.addEventListener("mouseup", onMouseUp);
+          };
+
+          const onMouseMove = (e) => {
+            if (this.isDragging) {
+              this.updatePlayheadFromEvent(e);
+            }
+          };
+
+          const onMouseUp = () => {
+            this.isDragging = false;
+            window.removeEventListener("mousemove", onMouseMove);
+            window.removeEventListener("mouseup", onMouseUp);
+          };
+
+          const onTouchStart = (e) => {
+            this.isDragging = true;
+            this.updatePlayheadFromEvent(e.touches[0]);
+            window.addEventListener("touchmove", onTouchMove);
+            window.addEventListener("touchend", onTouchEnd);
+          };
+
+          const onTouchMove = (e) => {
+            if (this.isDragging) {
+              this.updatePlayheadFromEvent(e.touches[0]);
+            }
+          };
+
+          const onTouchEnd = () => {
+            this.isDragging = false;
+            window.removeEventListener("touchmove", onTouchMove);
+            window.removeEventListener("touchend", onTouchEnd);
+          };
+
+          timeline.addEventListener("mousedown", onMouseDown);
+          timeline.addEventListener("touchstart", onTouchStart);
+        }
+
+        updatePlayheadFromEvent(e) {
+          const timelineRect = this.mainTimeline.getBoundingClientRect();
+          const clickX = e.clientX - timelineRect.left;
+          const clickPercentage = (clickX / timelineRect.width) * 100;
+
+          const videos = this.filteredVideos.length > 0 ? this.filteredVideos : this.videos;
+          const totalDuration = videos.reduce((sum, video) => sum + (video.duration || 1), 0);
+          const newTime = (totalDuration * clickPercentage) / 100;
+
+          let currentTime = 0;
+          for (let i = 0; i < videos.length; i++) {
+            const video = videos[i];
+            if (newTime >= currentTime && newTime < currentTime + (video.duration || 1)) {
+              this.currentIndex = i;
+              this.videoElement.currentTime = newTime - currentTime;
+              this.loadVideo();
+              break;
+            }
+            currentTime += video.duration || 1;
+          }
+        }
+
+        nextVideo() {
+          const videos =
+            this.filteredVideos.length > 0 ? this.filteredVideos : this.videos;
+          this.currentIndex = (this.currentIndex + 1) % videos.length;
+          this.loadVideo();
+        }
+
+        prevVideo() {
+          const videos =
+            this.filteredVideos.length > 0 ? this.filteredVideos : this.videos;
+          this.currentIndex =
+            (this.currentIndex - 1 + videos.length) % videos.length;
+          this.loadVideo();
+        }
+
+        togglePlay() {
+          if (this.videoElement.paused) this.videoElement.play();
+          else this.videoElement.pause();
+        }
+
+        toggleMute() {
+          this.isMuted = !this.isMuted;
+          this.videoElement.muted = this.isMuted;
+          const muteButton = document.getElementById("mute-toggle");
+          muteButton.textContent = this.isMuted ? "🔇 Muted" : "🔊 Unmuted";
+        }
+      }
+
+      // Initialize player
+      const player = new VideoPlayer();
+    </script>
+  </body>
+</html>
