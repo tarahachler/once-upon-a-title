@@ -360,10 +360,14 @@
       @media screen and (max-width: 1024px) and (orientation: landscape) {
         #bottom-controls {
           font-size: 2em;
+          height: 100%;
         }
 
         .year-color-container {
-          margin-bottom: 4em;
+          height: 90%;
+          flex-direction: column-reverse;
+          align-items: flex-end;
+          justify-content: space-between;
         }
 
         #color-picker {
