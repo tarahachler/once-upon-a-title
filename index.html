@@ -497,6 +497,10 @@
           this.lastDragX = 0;
           this.dragThreshold = 5; // Minimum pixels to move before triggering video change
 
+          this.touchStartTime = 0;
+          this.touchInterval = null;
+          this.touchThreshold = 300; // Time in ms to consider a touch as "long press"
+
           this.videoElement.addEventListener('ended', () => this.nextVideo());
 
           // Add mouse/touch event listeners for the whole page
@@ -508,9 +512,59 @@
           document.addEventListener('touchmove', (e) => this.handleDrag(e.touches[0]));
           document.addEventListener('touchend', () => this.stopDrag());
 
+          document.addEventListener('touchstart', this.handleTouchStart.bind(this));
+          document.addEventListener('touchend', this.handleTouchEnd.bind(this));
+
           this.loadingOverlay = document.getElementById('loading-overlay');
 
           this.init();
+        }
+
+        // Add these new methods
+        handleTouchStart(e) {
+          const touch = e.touches[0];
+          const screenWidth = window.innerWidth;
+          const touchX = touch.clientX;
+
+          this.touchStartTime = Date.now();
+
+          // Clear any existing interval
+          if (this.touchInterval) {
+            clearInterval(this.touchInterval);
+          }
+
+          // Set up interval for long press
+          this.touchInterval = setInterval(() => {
+            if (Date.now() - this.touchStartTime >= this.touchThreshold) {
+              if (touchX > screenWidth / 2) {
+                this.nextVideo();
+              } else {
+                this.prevVideo();
+              }
+            }
+          }, 200); // Check every 200ms
+        }
+
+        handleTouchEnd(e) {
+          const touch = e.changedTouches[0];
+          const screenWidth = window.innerWidth;
+          const touchX = touch.clientX;
+          const touchDuration = Date.now() - this.touchStartTime;
+
+          // Clear the interval
+          if (this.touchInterval) {
+            clearInterval(this.touchInterval);
+            this.touchInterval = null;
+          }
+
+          // If it was a short tap (not a long press), navigate once
+          if (touchDuration < this.touchThreshold) {
+            if (touchX > screenWidth / 2) {
+              this.nextVideo();
+            } else {
+              this.prevVideo();
+            }
+          }
         }
 
         // Add these new methods
